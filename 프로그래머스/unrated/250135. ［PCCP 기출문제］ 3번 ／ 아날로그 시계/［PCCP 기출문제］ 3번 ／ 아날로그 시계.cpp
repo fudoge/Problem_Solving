@@ -22,7 +22,7 @@ int solution(int h1, int m1, int s1, int h2, int m2, int s2) {
 
     vector<int> table(finalTime + 1);
 
-    for (int i = 0; i < finalTime; i++) {
+    for (int i = 0; i < endTime; i++) {
         int cnt = 0;
         auto curr_time = to_hms(i);
         double hAngle = curr_time[0] * 30 + curr_time[1] * 0.5 + curr_time[2] * 1 / 120;
