@@ -10,9 +10,6 @@ int check(int start)
     queue<int> q;
     q.push(start);
 
-    bool isDoubleNext = false; // 한 번이라도 두 갈래로 나뉘는지
-    bool isDonut = false;      // 도넛 모양이 생성되는지
-
     while (!q.empty())
     {
         int curr = q.front();
@@ -20,26 +17,16 @@ int check(int start)
 
         auto next_node = graph[curr];
         if (next_node.size() > 1)
-            return 3;
+            return 3; // 8자 케이스
         for (const auto &nextNode : next_node)
         {
             if (nextNode == start)
-                return 1;
+                return 1; // 도넛 케이스
             q.push(nextNode);
         }
     }
 
-    return 2;
-
-    int type;
-    if (isDoubleNext && isDonut)
-        type = 3;
-    else if (isDonut)
-        type = 1;
-    else
-        type = 2;
-
-    return type;
+    return 2; // 8자도 아니고, 도넛도 아니다? => 막대모양
 }
 
 vector<int> solution(vector<vector<int>> edges)
@@ -66,11 +53,10 @@ vector<int> solution(vector<vector<int>> edges)
     }
     answer[0] = root;
 
+    // 루트에서 이어진 정점에서 그래프 탐색 시작..
     for (const auto &next : root_next)
     {
-        int type = check(next);
-        if (type != -1)
-            answer[type]++;
+        answer[check(next)]++;
     }
 
     return answer;
