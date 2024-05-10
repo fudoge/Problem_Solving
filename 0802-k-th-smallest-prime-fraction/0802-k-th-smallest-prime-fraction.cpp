@@ -5,15 +5,16 @@ public:
         double left = 0, right = 1, mid;
         vector<int> res;
 
-        while (left <= right) {
-            mid = left + (right - left) / 2;
+        while(left <= right) {
+            mid = left + (right-left)/2;
             int j = 1, total = 0, num = 0, den = 0;
             double maxFrac = 0;
-            for (int i = 0; i < n; ++ i) {
-                while (j < n && arr[i] >= arr[j] * mid) {
+
+            for(int i = 0; i < n; i++) {
+                while(j < n && arr[i] >= arr[j] * mid) {
                     ++j;
                 }
-                
+
                 total += n - j;
 
                 if (j < n && maxFrac < arr[i] * 1.0 / arr[j]) {
@@ -22,12 +23,12 @@ public:
                 }
             }
 
-            if (total == k) {
+            if(total == k) {
                 res = {arr[num], arr[den]};
                 break;
             }
 
-            if (total > k) {
+            if(total > k) {
                 right = mid;
             } else {
                 left = mid;
