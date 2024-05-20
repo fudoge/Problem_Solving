@@ -1,26 +1,11 @@
-#pragma GCC optimize("03", "unroll-loops");
-static const int __ = [](){
-    ios_base::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 0;
-}();
-
 class Solution {
 public:
     int subsetXORSum(vector<int>& nums) {
-        int ans = 0;
-        int n = nums.size();
-        int m = 1 << n;
-        for(int i = 1; i < m; i++) {
-            int x = 0;
-            for(int j = 0; j < n; j++) {
-                if((1 << j) & i) {
-                    x ^= nums[j];
-                }
-            }
-            ans += x;
+        int xor_sum = 0;
+        for (int num : nums) {
+            xor_sum |= num;  // 모든 숫자의 비트를 OR 연산합니다.
         }
-        return ans;
+        int n = nums.size();
+        return xor_sum * (1 << (n - 1)); // 2^(n-1)을 곱합니다.
     }
 };
