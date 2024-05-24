@@ -2,7 +2,7 @@ class Solution {
 private:
     int ans, n;
 public:
-    int check(const vector<string>& words, const vector<int>& score, vector<int>& letter_count, int idx) {
+    int check(vector<string>& words, vector<int>& score, vector<int>& letter_count, int idx) {
         int x = 0;
         for(char ch : words[idx]) {
             int index = ch - 'a';
@@ -14,8 +14,7 @@ public:
         }
         return x;
     }
-
-    void solve(const vector<string>& words, const vector<int>& score, vector<int>& letter_count, int idx, int sum) {
+    void solve(vector<string>& words, vector<int>& score, vector<int>& letter_count, int idx, int sum) {
         ans = max(ans, sum);
         if(idx >= n) return;
 
@@ -38,7 +37,9 @@ public:
             letter_count[letter - 'a']++;
         }
 
-        solve(words, score, letter_count, 0, 0);
+        for(int i = 0; i < words.size(); i++) {
+            solve(words, score, letter_count, i, 0);
+        }
 
         return ans;
     }
