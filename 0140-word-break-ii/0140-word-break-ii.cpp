@@ -12,9 +12,8 @@ public:
         return true;
     }
     vector<string> wordBreak(string s, vector<string>& wordDict) {
-        // dp[idx] = idx번부터 인식한 뒤의 suffix들.
+        // dp[idx] = suffix with s[idx] ~ s[s.size()-1].
         // ex) s = "~~dog", word Dict = ["dog", ...] => dp[n-3] = {"dog ", ...}.
-        // 마지막 공백은 지워주면 된다.
         
         n = s.size();
         vector<vector<string>> dp(n+1, vector<string>());
@@ -30,6 +29,7 @@ public:
             }
         }
 
+        // remove trailing space.
         for(string &sentence : dp[0]) {
             sentence.pop_back();
         }
