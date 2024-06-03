@@ -15,3 +15,11 @@
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Array
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/fudoge/Problem_Solving/tree/master/0260-single-number-iii) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/fudoge/Problem_Solving/tree/master/0260-single-number-iii) |
