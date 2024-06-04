@@ -76,3 +76,11 @@
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/fudoge/Problem_Solving/tree/master/2634-minimum-common-value) |
+# Math
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/fudoge/Problem_Solving/tree/master/2571-find-the-pivot-integer) |
+# Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/fudoge/Problem_Solving/tree/master/2571-find-the-pivot-integer) |
