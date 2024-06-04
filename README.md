@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/fudoge/Problem_Solving/tree/master/0344-reverse-string) |
+| [0807-custom-sort-string](https://github.com/fudoge/Problem_Solving/tree/master/0807-custom-sort-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3379-score-of-a-string](https://github.com/fudoge/Problem_Solving/tree/master/3379-score-of-a-string) |
 # Greedy
@@ -57,6 +58,7 @@
 # Sorting
 |  |
 | ------- |
+| [0807-custom-sort-string](https://github.com/fudoge/Problem_Solving/tree/master/0807-custom-sort-string) |
 | [0985-bag-of-tokens](https://github.com/fudoge/Problem_Solving/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
 # Linked List
@@ -66,6 +68,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0807-custom-sort-string](https://github.com/fudoge/Problem_Solving/tree/master/0807-custom-sort-string) |
 | [2634-minimum-common-value](https://github.com/fudoge/Problem_Solving/tree/master/2634-minimum-common-value) |
 # Binary Search
 |  |
