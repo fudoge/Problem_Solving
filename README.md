@@ -5,6 +5,7 @@
 | [0344-reverse-string](https://github.com/fudoge/Problem_Solving/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [0985-bag-of-tokens](https://github.com/fudoge/Problem_Solving/tree/master/0985-bag-of-tokens) |
+| [0908-middle-of-the-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0908-middle-of-the-linked-list) |
 
 
 # String
@@ -56,3 +57,7 @@
 | ------- |
 | [0985-bag-of-tokens](https://github.com/fudoge/Problem_Solving/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
+# Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0908-middle-of-the-linked-list) |
