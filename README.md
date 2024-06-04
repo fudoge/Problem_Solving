@@ -3,6 +3,7 @@
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [0344-reverse-string](https://github.com/fudoge/Problem_Solving/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
 
 
 # String
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/fudoge/Problem_Solving/tree/master/0260-single-number-iii) |
+| [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -46,3 +48,7 @@
 | [0100-same-tree](https://github.com/fudoge/Problem_Solving/tree/master/0100-same-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/fudoge/Problem_Solving/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/fudoge/Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
+# Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
