@@ -10,7 +10,7 @@ static const int __ = [](){
 class Solution {
 public:
     vector<string> commonChars(vector<string>& words) {
-        vector<int> freq(26, INT_MAX);
+        vector<int> freq(26, 1e9);
         
         for(auto &word : words) {
             vector<int> subfreq(26, 0);
