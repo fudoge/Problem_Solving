@@ -7,6 +7,7 @@
 | [0985-bag-of-tokens](https://github.com/fudoge/Problem_Solving/tree/master/0985-bag-of-tokens) |
 | [0908-middle-of-the-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0908-middle-of-the-linked-list) |
 | [2634-minimum-common-value](https://github.com/fudoge/Problem_Solving/tree/master/2634-minimum-common-value) |
+| [0234-palindrome-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0234-palindrome-linked-list) |
 
 
 # String
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/fudoge/Problem_Solving/tree/master/1765-merge-in-between-linked-lists) |
@@ -112,3 +114,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0234-palindrome-linked-list) |
+# Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0234-palindrome-linked-list) |
