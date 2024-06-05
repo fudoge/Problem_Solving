@@ -15,6 +15,7 @@
 # String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/fudoge/Problem_Solving/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/fudoge/Problem_Solving/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/fudoge/Problem_Solving/tree/master/0344-reverse-string) |
 | [0807-custom-sort-string](https://github.com/fudoge/Problem_Solving/tree/master/0807-custom-sort-string) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/fudoge/Problem_Solving/tree/master/0041-first-missing-positive) |
 | [0057-insert-interval](https://github.com/fudoge/Problem_Solving/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/fudoge/Problem_Solving/tree/master/0079-word-search) |
 | [0260-single-number-iii](https://github.com/fudoge/Problem_Solving/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/fudoge/Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -157,3 +159,11 @@
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
+# Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/fudoge/Problem_Solving/tree/master/0079-word-search) |
+# Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/fudoge/Problem_Solving/tree/master/0079-word-search) |
