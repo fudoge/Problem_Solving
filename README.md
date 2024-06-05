@@ -43,6 +43,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
 | [2634-minimum-common-value](https://github.com/fudoge/Problem_Solving/tree/master/2634-minimum-common-value) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/fudoge/Problem_Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2634-minimum-common-value](https://github.com/fudoge/Problem_Solving/tree/master/2634-minimum-common-value) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/fudoge/Problem_Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 # Binary Search
 |  |
 | ------- |
@@ -136,3 +138,4 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/fudoge/Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/fudoge/Problem_Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
