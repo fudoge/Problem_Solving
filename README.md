@@ -15,6 +15,7 @@
 # String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/fudoge/Problem_Solving/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/fudoge/Problem_Solving/tree/master/0344-reverse-string) |
 | [0807-custom-sort-string](https://github.com/fudoge/Problem_Solving/tree/master/0807-custom-sort-string) |
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/fudoge/Problem_Solving/tree/master/0041-first-missing-positive) |
+| [0205-isomorphic-strings](https://github.com/fudoge/Problem_Solving/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/fudoge/Problem_Solving/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
