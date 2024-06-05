@@ -9,6 +9,7 @@
 | [2634-minimum-common-value](https://github.com/fudoge/Problem_Solving/tree/master/2634-minimum-common-value) |
 | [0234-palindrome-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0234-palindrome-linked-list) |
 | [0143-reorder-list](https://github.com/fudoge/Problem_Solving/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/fudoge/Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 
 
 # String
@@ -31,6 +32,7 @@
 | ------- |
 | [0057-insert-interval](https://github.com/fudoge/Problem_Solving/tree/master/0057-insert-interval) |
 | [0260-single-number-iii](https://github.com/fudoge/Problem_Solving/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/fudoge/Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/fudoge/Problem_Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0525-contiguous-array](https://github.com/fudoge/Problem_Solving/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/fudoge/Problem_Solving/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/fudoge/Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 # Tree
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/fudoge/Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [2634-minimum-common-value](https://github.com/fudoge/Problem_Solving/tree/master/2634-minimum-common-value) |
 # Math
 |  |
