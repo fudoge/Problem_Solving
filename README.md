@@ -74,6 +74,7 @@
 # Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/fudoge/Problem_Solving/tree/master/1765-merge-in-between-linked-lists) |
@@ -107,3 +108,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
+# Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0206-reverse-linked-list) |
