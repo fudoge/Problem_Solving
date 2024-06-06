@@ -43,6 +43,7 @@
 | [0041-first-missing-positive](https://github.com/fudoge/Problem_Solving/tree/master/0041-first-missing-positive) |
 | [0057-insert-interval](https://github.com/fudoge/Problem_Solving/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/fudoge/Problem_Solving/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/fudoge/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0260-single-number-iii](https://github.com/fudoge/Problem_Solving/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/fudoge/Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -156,6 +157,7 @@
 # Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/fudoge/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/fudoge/Problem_Solving/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/fudoge/Problem_Solving/tree/master/0402-remove-k-digits) |
@@ -191,9 +193,11 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/fudoge/Problem_Solving/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/fudoge/Problem_Solving/tree/master/0085-maximal-rectangle) |
 # Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/fudoge/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/fudoge/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 # Simulation
 |  |
@@ -204,4 +208,5 @@
 # Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/fudoge/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/fudoge/Problem_Solving/tree/master/0402-remove-k-digits) |
