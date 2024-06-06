@@ -53,6 +53,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/fudoge/Problem_Solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/fudoge/Problem_Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2634-minimum-common-value](https://github.com/fudoge/Problem_Solving/tree/master/2634-minimum-common-value) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/fudoge/Problem_Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -156,6 +157,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/fudoge/Problem_Solving/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/fudoge/Problem_Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 # Sliding Window
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 # Queue
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/fudoge/Problem_Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
 # Monotonic Queue
 |  |
@@ -184,3 +187,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/fudoge/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
+# Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/fudoge/Problem_Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
