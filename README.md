@@ -18,6 +18,7 @@
 | [0079-word-search](https://github.com/fudoge/Problem_Solving/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/fudoge/Problem_Solving/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/fudoge/Problem_Solving/tree/master/0344-reverse-string) |
+| [0678-valid-parenthesis-string](https://github.com/fudoge/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0807-custom-sort-string](https://github.com/fudoge/Problem_Solving/tree/master/0807-custom-sort-string) |
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/fudoge/Problem_Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/fudoge/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/fudoge/Problem_Solving/tree/master/0876-hand-of-straights) |
 | [0985-bag-of-tokens](https://github.com/fudoge/Problem_Solving/tree/master/0985-bag-of-tokens) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -150,6 +152,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/fudoge/Problem_Solving/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/fudoge/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/fudoge/Problem_Solving/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -177,3 +180,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/fudoge/Problem_Solving/tree/master/0079-word-search) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/fudoge/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
