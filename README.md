@@ -29,6 +29,7 @@
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/fudoge/Problem_Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/fudoge/Problem_Solving/tree/master/0876-hand-of-straights) |
 | [0985-bag-of-tokens](https://github.com/fudoge/Problem_Solving/tree/master/0985-bag-of-tokens) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
@@ -44,6 +45,7 @@
 | [0525-contiguous-array](https://github.com/fudoge/Problem_Solving/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/fudoge/Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
+| [0876-hand-of-straights](https://github.com/fudoge/Problem_Solving/tree/master/0876-hand-of-straights) |
 | [0985-bag-of-tokens](https://github.com/fudoge/Problem_Solving/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/fudoge/Problem_Solving/tree/master/1034-subarrays-with-k-different-integers) |
@@ -86,6 +88,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/fudoge/Problem_Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
 | [0807-custom-sort-string](https://github.com/fudoge/Problem_Solving/tree/master/0807-custom-sort-string) |
+| [0876-hand-of-straights](https://github.com/fudoge/Problem_Solving/tree/master/0876-hand-of-straights) |
 | [0985-bag-of-tokens](https://github.com/fudoge/Problem_Solving/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
 # Linked List
@@ -106,6 +109,7 @@
 | [0525-contiguous-array](https://github.com/fudoge/Problem_Solving/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
 | [0807-custom-sort-string](https://github.com/fudoge/Problem_Solving/tree/master/0807-custom-sort-string) |
+| [0876-hand-of-straights](https://github.com/fudoge/Problem_Solving/tree/master/0876-hand-of-straights) |
 | [1034-subarrays-with-k-different-integers](https://github.com/fudoge/Problem_Solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
