@@ -20,6 +20,7 @@
 | [0344-reverse-string](https://github.com/fudoge/Problem_Solving/tree/master/0344-reverse-string) |
 | [0807-custom-sort-string](https://github.com/fudoge/Problem_Solving/tree/master/0807-custom-sort-string) |
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/fudoge/Problem_Solving/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/fudoge/Problem_Solving/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0234-palindrome-linked-list) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/fudoge/Problem_Solving/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 # Sliding Window
