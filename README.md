@@ -18,6 +18,7 @@
 | [0079-word-search](https://github.com/fudoge/Problem_Solving/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/fudoge/Problem_Solving/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/fudoge/Problem_Solving/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/fudoge/Problem_Solving/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/fudoge/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0807-custom-sort-string](https://github.com/fudoge/Problem_Solving/tree/master/0807-custom-sort-string) |
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
@@ -29,6 +30,7 @@
 # Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/fudoge/Problem_Solving/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/fudoge/Problem_Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/fudoge/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
@@ -156,6 +158,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/fudoge/Problem_Solving/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/fudoge/Problem_Solving/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/fudoge/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/fudoge/Problem_Solving/tree/master/1666-make-the-string-great) |
@@ -198,3 +201,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/fudoge/Problem_Solving/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/fudoge/Problem_Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/fudoge/Problem_Solving/tree/master/2195-time-needed-to-buy-tickets) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/fudoge/Problem_Solving/tree/master/0402-remove-k-digits) |
