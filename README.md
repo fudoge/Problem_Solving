@@ -21,6 +21,7 @@
 | [0402-remove-k-digits](https://github.com/fudoge/Problem_Solving/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/fudoge/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0807-custom-sort-string](https://github.com/fudoge/Problem_Solving/tree/master/0807-custom-sort-string) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/fudoge/Problem_Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/fudoge/Problem_Solving/tree/master/1666-make-the-string-great) |
@@ -77,6 +78,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/fudoge/Problem_Solving/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/fudoge/Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/fudoge/Problem_Solving/tree/master/0623-add-one-row-to-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/fudoge/Problem_Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 # Depth-First Search
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/fudoge/Problem_Solving/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/fudoge/Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/fudoge/Problem_Solving/tree/master/0623-add-one-row-to-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/fudoge/Problem_Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -102,6 +105,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/fudoge/Problem_Solving/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/fudoge/Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/fudoge/Problem_Solving/tree/master/0623-add-one-row-to-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/fudoge/Problem_Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 # Sorting
 |  |
 | ------- |
@@ -200,6 +204,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/fudoge/Problem_Solving/tree/master/0079-word-search) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/fudoge/Problem_Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 # Matrix
 |  |
 | ------- |
