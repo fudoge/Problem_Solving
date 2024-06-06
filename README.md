@@ -61,6 +61,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/fudoge/Problem_Solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/fudoge/Problem_Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2103-find-all-groups-of-farmland](https://github.com/fudoge/Problem_Solving/tree/master/2103-find-all-groups-of-farmland) |
 | [2195-time-needed-to-buy-tickets](https://github.com/fudoge/Problem_Solving/tree/master/2195-time-needed-to-buy-tickets) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2634-minimum-common-value](https://github.com/fudoge/Problem_Solving/tree/master/2634-minimum-common-value) |
@@ -93,6 +94,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/fudoge/Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/fudoge/Problem_Solving/tree/master/0623-add-one-row-to-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/fudoge/Problem_Solving/tree/master/1030-smallest-string-starting-from-leaf) |
+| [2103-find-all-groups-of-farmland](https://github.com/fudoge/Problem_Solving/tree/master/2103-find-all-groups-of-farmland) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0463-island-perimeter](https://github.com/fudoge/Problem_Solving/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/fudoge/Problem_Solving/tree/master/0513-find-bottom-left-tree-value) |
 | [0623-add-one-row-to-tree](https://github.com/fudoge/Problem_Solving/tree/master/0623-add-one-row-to-tree) |
+| [2103-find-all-groups-of-farmland](https://github.com/fudoge/Problem_Solving/tree/master/2103-find-all-groups-of-farmland) |
 # Binary Tree
 |  |
 | ------- |
@@ -218,6 +221,7 @@
 | [0085-maximal-rectangle](https://github.com/fudoge/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/fudoge/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/fudoge/Problem_Solving/tree/master/0463-island-perimeter) |
+| [2103-find-all-groups-of-farmland](https://github.com/fudoge/Problem_Solving/tree/master/2103-find-all-groups-of-farmland) |
 # Dynamic Programming
 |  |
 | ------- |
