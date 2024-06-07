@@ -158,6 +158,7 @@
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/fudoge/Problem_Solving/tree/master/1765-merge-in-between-linked-lists) |
 | [2573-remove-nodes-from-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2573-remove-nodes-from-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 # Hash Table
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/fudoge/Problem_Solving/tree/master/2571-find-the-pivot-integer) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 # Prefix Sum
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/fudoge/Problem_Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2573-remove-nodes-from-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2573-remove-nodes-from-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 # Sliding Window
 |  |
 | ------- |
