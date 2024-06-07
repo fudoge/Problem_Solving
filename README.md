@@ -61,6 +61,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/fudoge/Problem_Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/fudoge/Problem_Solving/tree/master/0463-island-perimeter) |
+| [0506-relative-ranks](https://github.com/fudoge/Problem_Solving/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/fudoge/Problem_Solving/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/fudoge/Problem_Solving/tree/master/0648-replace-words) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/fudoge/Problem_Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0506-relative-ranks](https://github.com/fudoge/Problem_Solving/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
 | [0807-custom-sort-string](https://github.com/fudoge/Problem_Solving/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/fudoge/Problem_Solving/tree/master/0876-hand-of-straights) |
@@ -195,6 +197,7 @@
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/fudoge/Problem_Solving/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
 # Counting
 |  |
