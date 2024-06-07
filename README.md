@@ -63,6 +63,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/fudoge/Problem_Solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/fudoge/Problem_Solving/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/fudoge/Problem_Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2103-find-all-groups-of-farmland](https://github.com/fudoge/Problem_Solving/tree/master/2103-find-all-groups-of-farmland) |
 | [2195-time-needed-to-buy-tickets](https://github.com/fudoge/Problem_Solving/tree/master/2195-time-needed-to-buy-tickets) |
@@ -228,12 +229,14 @@
 | [0085-maximal-rectangle](https://github.com/fudoge/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/fudoge/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/fudoge/Problem_Solving/tree/master/0463-island-perimeter) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/fudoge/Problem_Solving/tree/master/1224-minimum-falling-path-sum-ii) |
 | [2103-find-all-groups-of-farmland](https://github.com/fudoge/Problem_Solving/tree/master/2103-find-all-groups-of-farmland) |
 # Dynamic Programming
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/fudoge/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/fudoge/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/fudoge/Problem_Solving/tree/master/1224-minimum-falling-path-sum-ii) |
 | [2444-longest-ideal-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2444-longest-ideal-subsequence) |
 # Simulation
 |  |
