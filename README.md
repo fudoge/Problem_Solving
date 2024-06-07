@@ -27,6 +27,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/fudoge/Problem_Solving/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2444-longest-ideal-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2444-longest-ideal-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3379-score-of-a-string](https://github.com/fudoge/Problem_Solving/tree/master/3379-score-of-a-string) |
 # Greedy
@@ -152,6 +153,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/fudoge/Problem_Solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [2444-longest-ideal-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2444-longest-ideal-subsequence) |
 | [2634-minimum-common-value](https://github.com/fudoge/Problem_Solving/tree/master/2634-minimum-common-value) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/fudoge/Problem_Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 # Binary Search
@@ -232,6 +234,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/fudoge/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/fudoge/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
+| [2444-longest-ideal-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2444-longest-ideal-subsequence) |
 # Simulation
 |  |
 | ------- |
