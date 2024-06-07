@@ -157,6 +157,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/fudoge/Problem_Solving/tree/master/1765-merge-in-between-linked-lists) |
+| [2573-remove-nodes-from-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2573-remove-nodes-from-linked-list) |
 # Hash Table
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 | [0143-reorder-list](https://github.com/fudoge/Problem_Solving/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/0234-palindrome-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2573-remove-nodes-from-linked-list) |
 # Stack
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | [1666-make-the-string-great](https://github.com/fudoge/Problem_Solving/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/fudoge/Problem_Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2573-remove-nodes-from-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2573-remove-nodes-from-linked-list) |
 # Sliding Window
 |  |
 | ------- |
@@ -269,6 +272,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/fudoge/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/fudoge/Problem_Solving/tree/master/0402-remove-k-digits) |
+| [2573-remove-nodes-from-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2573-remove-nodes-from-linked-list) |
 # Union Find
 |  |
 | ------- |
