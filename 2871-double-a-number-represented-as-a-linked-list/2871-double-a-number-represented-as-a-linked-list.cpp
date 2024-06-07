@@ -8,6 +8,15 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+#pragma GCC optimize("03", "unroll-loops");
+static const int __ = [](){
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 0;
+}();
+
 class Solution {
 private:
     int carry = 0;
