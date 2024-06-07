@@ -48,6 +48,7 @@
 | [0917-boats-to-save-people](https://github.com/fudoge/Problem_Solving/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/fudoge/Problem_Solving/tree/master/0985-bag-of-tokens) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/fudoge/Problem_Solving/tree/master/3351-maximize-happiness-of-selected-children) |
 # Array
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [2634-minimum-common-value](https://github.com/fudoge/Problem_Solving/tree/master/2634-minimum-common-value) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/fudoge/Problem_Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/fudoge/Problem_Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/fudoge/Problem_Solving/tree/master/3351-maximize-happiness-of-selected-children) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/fudoge/Problem_Solving/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/fudoge/Problem_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/fudoge/Problem_Solving/tree/master/3351-maximize-happiness-of-selected-children) |
 # Linked List
 |  |
 | ------- |
