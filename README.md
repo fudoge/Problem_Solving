@@ -19,6 +19,7 @@
 | [0205-isomorphic-strings](https://github.com/fudoge/Problem_Solving/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/fudoge/Problem_Solving/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/fudoge/Problem_Solving/tree/master/0402-remove-k-digits) |
+| [0514-freedom-trail](https://github.com/fudoge/Problem_Solving/tree/master/0514-freedom-trail) |
 | [0648-replace-words](https://github.com/fudoge/Problem_Solving/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/fudoge/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0807-custom-sort-string](https://github.com/fudoge/Problem_Solving/tree/master/0807-custom-sort-string) |
@@ -96,6 +97,7 @@
 | [0404-sum-of-left-leaves](https://github.com/fudoge/Problem_Solving/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/fudoge/Problem_Solving/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/fudoge/Problem_Solving/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/fudoge/Problem_Solving/tree/master/0514-freedom-trail) |
 | [0543-diameter-of-binary-tree](https://github.com/fudoge/Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/fudoge/Problem_Solving/tree/master/0623-add-one-row-to-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/fudoge/Problem_Solving/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -109,6 +111,7 @@
 | [0404-sum-of-left-leaves](https://github.com/fudoge/Problem_Solving/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/fudoge/Problem_Solving/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/fudoge/Problem_Solving/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/fudoge/Problem_Solving/tree/master/0514-freedom-trail) |
 | [0623-add-one-row-to-tree](https://github.com/fudoge/Problem_Solving/tree/master/0623-add-one-row-to-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/fudoge/Problem_Solving/tree/master/2103-find-all-groups-of-farmland) |
 # Binary Tree
@@ -235,6 +238,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/fudoge/Problem_Solving/tree/master/0085-maximal-rectangle) |
+| [0514-freedom-trail](https://github.com/fudoge/Problem_Solving/tree/master/0514-freedom-trail) |
 | [0678-valid-parenthesis-string](https://github.com/fudoge/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/fudoge/Problem_Solving/tree/master/1224-minimum-falling-path-sum-ii) |
 | [2444-longest-ideal-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2444-longest-ideal-subsequence) |
