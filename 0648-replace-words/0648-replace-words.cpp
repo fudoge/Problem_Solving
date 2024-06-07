@@ -1,24 +1,23 @@
 class Solution {
 public:
     string replaceWords(vector<string>& dictionary, string sentence) {
-        stringstream ss(sentence);
         string ans = "";
-        string word;
-        while(ss >> word) {
-            bool flag = true;
-            for(int i = 0; i < word.size(); i++) {
-                string prefix = word.substr(0, i);
+        int i = 0;
+
+        while(i < sentence.size()) {
+            string prefix = "";
+            while(i < sentence.size() && sentence[i] != ' ') {
+                prefix += sentence[i];
                 if(find(dictionary.begin(), dictionary.end(), prefix) != dictionary.end()) {
-                    ans += prefix;
-                    flag = false;
+                    while(i < sentence.size() && sentence[i] != ' ') i++;
                     break;
                 }
+                i++;
             }
 
-            if(flag) {
-                ans += word;
-            }
+            ans += prefix;
             ans += " ";
+            i++;
         }
 
         ans.pop_back();
