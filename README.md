@@ -63,6 +63,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/fudoge/Problem_Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/fudoge/Problem_Solving/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/fudoge/Problem_Solving/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/fudoge/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/fudoge/Problem_Solving/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/fudoge/Problem_Solving/tree/master/0648-replace-words) |
@@ -170,6 +171,7 @@
 | [0041-first-missing-positive](https://github.com/fudoge/Problem_Solving/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/fudoge/Problem_Solving/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/fudoge/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/fudoge/Problem_Solving/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/fudoge/Problem_Solving/tree/master/0648-replace-words) |
@@ -190,11 +192,13 @@
 # Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/fudoge/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [2571-find-the-pivot-integer](https://github.com/fudoge/Problem_Solving/tree/master/2571-find-the-pivot-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 # Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/fudoge/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/fudoge/Problem_Solving/tree/master/0525-contiguous-array) |
 | [2571-find-the-pivot-integer](https://github.com/fudoge/Problem_Solving/tree/master/2571-find-the-pivot-integer) |
 # Heap (Priority Queue)
