@@ -1,3 +1,10 @@
+static const int __ = [](){
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 0;
+}();
+
 class Solution {
 public:
     int subarraysDivByK(vector<int>& nums, int k) {
@@ -13,7 +20,6 @@ public:
         mp[0] = 1;
         for(int i = 0; i < n; i++) {
             ans += mp[nums[i]];
-
             mp[nums[i]]++;
         }
 
