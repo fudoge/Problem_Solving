@@ -72,6 +72,7 @@
 | [0917-boats-to-save-people](https://github.com/fudoge/Problem_Solving/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/fudoge/Problem_Solving/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/fudoge/Problem_Solving/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/fudoge/Problem_Solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
@@ -177,6 +178,7 @@
 | [0648-replace-words](https://github.com/fudoge/Problem_Solving/tree/master/0648-replace-words) |
 | [0807-custom-sort-string](https://github.com/fudoge/Problem_Solving/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/fudoge/Problem_Solving/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/fudoge/Problem_Solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -200,6 +202,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/fudoge/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/fudoge/Problem_Solving/tree/master/0525-contiguous-array) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2571-find-the-pivot-integer](https://github.com/fudoge/Problem_Solving/tree/master/2571-find-the-pivot-integer) |
 # Heap (Priority Queue)
 |  |
