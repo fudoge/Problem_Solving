@@ -77,6 +77,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/fudoge/Problem_Solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/fudoge/Problem_Solving/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/fudoge/Problem_Solving/tree/master/1217-relative-sort-array) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/fudoge/Problem_Solving/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/fudoge/Problem_Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2103-find-all-groups-of-farmland](https://github.com/fudoge/Problem_Solving/tree/master/2103-find-all-groups-of-farmland) |
@@ -154,6 +155,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/fudoge/Problem_Solving/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/fudoge/Problem_Solving/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/fudoge/Problem_Solving/tree/master/1217-relative-sort-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/fudoge/Problem_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/fudoge/Problem_Solving/tree/master/3351-maximize-happiness-of-selected-children) |
 # Linked List
@@ -183,6 +185,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/fudoge/Problem_Solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/fudoge/Problem_Solving/tree/master/1217-relative-sort-array) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2444-longest-ideal-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2444-longest-ideal-subsequence) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/fudoge/Problem_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -312,3 +315,4 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/fudoge/Problem_Solving/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/fudoge/Problem_Solving/tree/master/1217-relative-sort-array) |
