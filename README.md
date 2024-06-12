@@ -14,6 +14,7 @@
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/fudoge/Problem_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [0165-compare-version-numbers](https://github.com/fudoge/Problem_Solving/tree/master/0165-compare-version-numbers) |
 | [0917-boats-to-save-people](https://github.com/fudoge/Problem_Solving/tree/master/0917-boats-to-save-people) |
+| [0075-sort-colors](https://github.com/fudoge/Problem_Solving/tree/master/0075-sort-colors) |
 
 
 # String
@@ -54,6 +55,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/fudoge/Problem_Solving/tree/master/0041-first-missing-positive) |
 | [0057-insert-interval](https://github.com/fudoge/Problem_Solving/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/fudoge/Problem_Solving/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/fudoge/Problem_Solving/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/fudoge/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/fudoge/Problem_Solving/tree/master/0200-number-of-islands) |
@@ -145,6 +147,7 @@
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/fudoge/Problem_Solving/tree/master/0075-sort-colors) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/fudoge/Problem_Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0506-relative-ranks](https://github.com/fudoge/Problem_Solving/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
