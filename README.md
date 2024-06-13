@@ -48,6 +48,7 @@
 | [0876-hand-of-straights](https://github.com/fudoge/Problem_Solving/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/fudoge/Problem_Solving/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/fudoge/Problem_Solving/tree/master/0985-bag-of-tokens) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fudoge/Problem_Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/fudoge/Problem_Solving/tree/master/3351-maximize-happiness-of-selected-children) |
 # Array
@@ -83,6 +84,7 @@
 | [1224-minimum-falling-path-sum-ii](https://github.com/fudoge/Problem_Solving/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/fudoge/Problem_Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2103-find-all-groups-of-farmland](https://github.com/fudoge/Problem_Solving/tree/master/2103-find-all-groups-of-farmland) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fudoge/Problem_Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2195-time-needed-to-buy-tickets](https://github.com/fudoge/Problem_Solving/tree/master/2195-time-needed-to-buy-tickets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/fudoge/Problem_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -159,6 +161,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/fudoge/Problem_Solving/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/fudoge/Problem_Solving/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fudoge/Problem_Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/fudoge/Problem_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/fudoge/Problem_Solving/tree/master/3351-maximize-happiness-of-selected-children) |
 # Linked List
