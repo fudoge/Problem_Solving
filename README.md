@@ -47,6 +47,7 @@
 | [0678-valid-parenthesis-string](https://github.com/fudoge/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/fudoge/Problem_Solving/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/fudoge/Problem_Solving/tree/master/0917-boats-to-save-people) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/fudoge/Problem_Solving/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/fudoge/Problem_Solving/tree/master/0985-bag-of-tokens) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fudoge/Problem_Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -73,6 +74,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/fudoge/Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0876-hand-of-straights](https://github.com/fudoge/Problem_Solving/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/fudoge/Problem_Solving/tree/master/0917-boats-to-save-people) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/fudoge/Problem_Solving/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/fudoge/Problem_Solving/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/fudoge/Problem_Solving/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -156,6 +158,7 @@
 | [0807-custom-sort-string](https://github.com/fudoge/Problem_Solving/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/fudoge/Problem_Solving/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/fudoge/Problem_Solving/tree/master/0917-boats-to-save-people) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/fudoge/Problem_Solving/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/fudoge/Problem_Solving/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/fudoge/Problem_Solving/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -320,5 +323,6 @@
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/fudoge/Problem_Solving/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/fudoge/Problem_Solving/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/fudoge/Problem_Solving/tree/master/1217-relative-sort-array) |
