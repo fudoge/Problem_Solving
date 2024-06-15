@@ -43,6 +43,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/fudoge/Problem_Solving/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/fudoge/Problem_Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/fudoge/Problem_Solving/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/fudoge/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/fudoge/Problem_Solving/tree/master/0876-hand-of-straights) |
@@ -66,6 +67,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/fudoge/Problem_Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/fudoge/Problem_Solving/tree/master/0463-island-perimeter) |
+| [0502-ipo](https://github.com/fudoge/Problem_Solving/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/fudoge/Problem_Solving/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/fudoge/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/fudoge/Problem_Solving/tree/master/0525-contiguous-array) |
@@ -153,6 +155,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/fudoge/Problem_Solving/tree/master/0075-sort-colors) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/fudoge/Problem_Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/fudoge/Problem_Solving/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/fudoge/Problem_Solving/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
 | [0807-custom-sort-string](https://github.com/fudoge/Problem_Solving/tree/master/0807-custom-sort-string) |
@@ -221,6 +224,7 @@
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/fudoge/Problem_Solving/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/fudoge/Problem_Solving/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
 # Counting
