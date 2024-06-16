@@ -41,6 +41,7 @@
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/fudoge/Problem_Solving/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/fudoge/Problem_Solving/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/fudoge/Problem_Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/fudoge/Problem_Solving/tree/master/0502-ipo) |
@@ -64,6 +65,7 @@
 | [0200-number-of-islands](https://github.com/fudoge/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0260-single-number-iii](https://github.com/fudoge/Problem_Solving/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/fudoge/Problem_Solving/tree/master/0287-find-the-duplicate-number) |
+| [0330-patching-array](https://github.com/fudoge/Problem_Solving/tree/master/0330-patching-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/fudoge/Problem_Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/fudoge/Problem_Solving/tree/master/0463-island-perimeter) |
