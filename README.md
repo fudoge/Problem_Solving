@@ -15,6 +15,7 @@
 | [0165-compare-version-numbers](https://github.com/fudoge/Problem_Solving/tree/master/0165-compare-version-numbers) |
 | [0917-boats-to-save-people](https://github.com/fudoge/Problem_Solving/tree/master/0917-boats-to-save-people) |
 | [0075-sort-colors](https://github.com/fudoge/Problem_Solving/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/fudoge/Problem_Solving/tree/master/0633-sum-of-square-numbers) |
 
 
 # String
@@ -209,11 +210,13 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/fudoge/Problem_Solving/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/fudoge/Problem_Solving/tree/master/0633-sum-of-square-numbers) |
 | [2634-minimum-common-value](https://github.com/fudoge/Problem_Solving/tree/master/2634-minimum-common-value) |
 # Math
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/fudoge/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/fudoge/Problem_Solving/tree/master/0633-sum-of-square-numbers) |
 | [2571-find-the-pivot-integer](https://github.com/fudoge/Problem_Solving/tree/master/2571-find-the-pivot-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 # Prefix Sum
