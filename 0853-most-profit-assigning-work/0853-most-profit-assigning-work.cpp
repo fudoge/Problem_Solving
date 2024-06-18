@@ -28,12 +28,8 @@ public:
 
         sort(works.begin(), works.end());
 
-        int maxProfit = 0;
-        for (int i = 0; i < works.size(); i++) {
-            if (works[i][1] > maxProfit) {
-                maxProfit = works[i][1];
-            }
-            works[i][1] = maxProfit;
+        for (int i = 1; i < works.size(); i++) {
+            works[i][1] = max(works[i][1], works[i-1][1]);
         }
 
         for (int i = 0; i < m; i++) {
