@@ -1,10 +1,18 @@
 class Solution {
 public:
     int getMax(int ability, vector<vector<int>>& works) {
+        int left = 0, right = works.size() - 1;
         int res = 0;
-        for(int i = 0; i < works.size() && ability >= works[i][0]; i++) {
-            res = max(res, works[i][1]);
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            if (works[mid][0] <= ability) {
+                res = (res, works[mid][1]);
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
         }
+        
         return res;
     }
 
@@ -13,12 +21,22 @@ public:
         int m = worker.size();
         int ans = 0;
         vector<vector<int>> works;
-        for(int i = 0; i < n; i++) {
+        
+        for (int i = 0; i < n; i++) {
             works.push_back({difficulty[i], profit[i]});
         }
 
         sort(works.begin(), works.end());
-        for(int i = 0; i < m; i++) {
+
+        int maxProfit = 0;
+        for (int i = 0; i < works.size(); i++) {
+            if (works[i][1] > maxProfit) {
+                maxProfit = works[i][1];
+            }
+            works[i][1] = maxProfit;
+        }
+
+        for (int i = 0; i < m; i++) {
             ans += getMax(worker[i], works);
         }
 
