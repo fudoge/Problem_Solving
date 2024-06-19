@@ -92,6 +92,7 @@
 | [1137-height-checker](https://github.com/fudoge/Problem_Solving/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/fudoge/Problem_Solving/tree/master/1217-relative-sort-array) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/fudoge/Problem_Solving/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/fudoge/Problem_Solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/fudoge/Problem_Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2103-find-all-groups-of-farmland](https://github.com/fudoge/Problem_Solving/tree/master/2103-find-all-groups-of-farmland) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fudoge/Problem_Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -216,6 +217,7 @@
 | [0287-find-the-duplicate-number](https://github.com/fudoge/Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/fudoge/Problem_Solving/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/fudoge/Problem_Solving/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/fudoge/Problem_Solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2634-minimum-common-value](https://github.com/fudoge/Problem_Solving/tree/master/2634-minimum-common-value) |
 # Math
 |  |
