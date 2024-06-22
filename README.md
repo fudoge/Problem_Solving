@@ -93,6 +93,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/fudoge/Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/fudoge/Problem_Solving/tree/master/1217-relative-sort-array) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/fudoge/Problem_Solving/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/fudoge/Problem_Solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/fudoge/Problem_Solving/tree/master/1675-magnetic-force-between-two-balls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/fudoge/Problem_Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -210,6 +211,7 @@
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/fudoge/Problem_Solving/tree/master/1217-relative-sort-array) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1370-count-number-of-nice-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [2444-longest-ideal-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2444-longest-ideal-subsequence) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/fudoge/Problem_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/fudoge/Problem_Solving/tree/master/2634-minimum-common-value) |
@@ -228,6 +230,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/fudoge/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/fudoge/Problem_Solving/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/fudoge/Problem_Solving/tree/master/2571-find-the-pivot-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 # Prefix Sum
@@ -275,6 +278,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/fudoge/Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/fudoge/Problem_Solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1138-grumpy-bookstore-owner](https://github.com/fudoge/Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/fudoge/Problem_Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/fudoge/Problem_Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
