@@ -94,6 +94,7 @@
 | [1217-relative-sort-array](https://github.com/fudoge/Problem_Solving/tree/master/1217-relative-sort-array) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/fudoge/Problem_Solving/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fudoge/Problem_Solving/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/fudoge/Problem_Solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/fudoge/Problem_Solving/tree/master/1675-magnetic-force-between-two-balls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/fudoge/Problem_Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -246,6 +247,7 @@
 | [0502-ipo](https://github.com/fudoge/Problem_Solving/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/fudoge/Problem_Solving/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fudoge/Problem_Solving/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Counting
 |  |
 | ------- |
@@ -279,6 +281,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/fudoge/Problem_Solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1138-grumpy-bookstore-owner](https://github.com/fudoge/Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fudoge/Problem_Solving/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/fudoge/Problem_Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/fudoge/Problem_Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -286,12 +289,14 @@
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/fudoge/Problem_Solving/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fudoge/Problem_Solving/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/fudoge/Problem_Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/fudoge/Problem_Solving/tree/master/2195-time-needed-to-buy-tickets) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
 # Monotonic Queue
 |  |
 | ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fudoge/Problem_Solving/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
 # Backtracking
 |  |
@@ -351,3 +356,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/fudoge/Problem_Solving/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/fudoge/Problem_Solving/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/fudoge/Problem_Solving/tree/master/1217-relative-sort-array) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fudoge/Problem_Solving/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
