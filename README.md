@@ -88,6 +88,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/fudoge/Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/fudoge/Problem_Solving/tree/master/1034-subarrays-with-k-different-integers) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/fudoge/Problem_Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/fudoge/Problem_Solving/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/fudoge/Problem_Solving/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/fudoge/Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0260-single-number-iii](https://github.com/fudoge/Problem_Solving/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/fudoge/Problem_Solving/tree/master/0287-find-the-duplicate-number) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/fudoge/Problem_Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Tree
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 | [0523-continuous-subarray-sum](https://github.com/fudoge/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/fudoge/Problem_Solving/tree/master/0525-contiguous-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/fudoge/Problem_Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2571-find-the-pivot-integer](https://github.com/fudoge/Problem_Solving/tree/master/2571-find-the-pivot-integer) |
 # Heap (Priority Queue)
 |  |
@@ -279,6 +282,7 @@
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/fudoge/Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/fudoge/Problem_Solving/tree/master/1034-subarrays-with-k-different-integers) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/fudoge/Problem_Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/fudoge/Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fudoge/Problem_Solving/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -289,6 +293,7 @@
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/fudoge/Problem_Solving/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/fudoge/Problem_Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fudoge/Problem_Solving/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/fudoge/Problem_Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/fudoge/Problem_Solving/tree/master/2195-time-needed-to-buy-tickets) |
