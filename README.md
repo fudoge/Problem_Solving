@@ -54,6 +54,7 @@
 | [0917-boats-to-save-people](https://github.com/fudoge/Problem_Solving/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/fudoge/Problem_Solving/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/fudoge/Problem_Solving/tree/master/0985-bag-of-tokens) |
+| [1285-balance-a-binary-search-tree](https://github.com/fudoge/Problem_Solving/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fudoge/Problem_Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/fudoge/Problem_Solving/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -126,6 +127,7 @@
 | [0863-sum-of-distances-in-tree](https://github.com/fudoge/Problem_Solving/tree/master/0863-sum-of-distances-in-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/fudoge/Problem_Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/fudoge/Problem_Solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/fudoge/Problem_Solving/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0863-sum-of-distances-in-tree](https://github.com/fudoge/Problem_Solving/tree/master/0863-sum-of-distances-in-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/fudoge/Problem_Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/fudoge/Problem_Solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/fudoge/Problem_Solving/tree/master/1285-balance-a-binary-search-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/fudoge/Problem_Solving/tree/master/2103-find-all-groups-of-farmland) |
 # Breadth-First Search
 |  |
@@ -166,6 +169,7 @@
 | [0623-add-one-row-to-tree](https://github.com/fudoge/Problem_Solving/tree/master/0623-add-one-row-to-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/fudoge/Problem_Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/fudoge/Problem_Solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/fudoge/Problem_Solving/tree/master/1285-balance-a-binary-search-tree) |
 # Sorting
 |  |
 | ------- |
@@ -372,3 +376,8 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/fudoge/Problem_Solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/fudoge/Problem_Solving/tree/master/1285-balance-a-binary-search-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/fudoge/Problem_Solving/tree/master/1285-balance-a-binary-search-tree) |
