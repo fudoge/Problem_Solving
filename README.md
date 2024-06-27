@@ -358,6 +358,7 @@
 | ------- |
 | [0310-minimum-height-trees](https://github.com/fudoge/Problem_Solving/tree/master/0310-minimum-height-trees) |
 | [0863-sum-of-distances-in-tree](https://github.com/fudoge/Problem_Solving/tree/master/0863-sum-of-distances-in-tree) |
+| [1916-find-center-of-star-graph](https://github.com/fudoge/Problem_Solving/tree/master/1916-find-center-of-star-graph) |
 # Topological Sort
 |  |
 | ------- |
