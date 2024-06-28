@@ -56,6 +56,7 @@
 | [0985-bag-of-tokens](https://github.com/fudoge/Problem_Solving/tree/master/0985-bag-of-tokens) |
 | [1285-balance-a-binary-search-tree](https://github.com/fudoge/Problem_Solving/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fudoge/Problem_Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/fudoge/Problem_Solving/tree/master/2379-maximum-total-importance-of-roads) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/fudoge/Problem_Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/fudoge/Problem_Solving/tree/master/3351-maximize-happiness-of-selected-children) |
 # Array
@@ -190,6 +191,7 @@
 | [1217-relative-sort-array](https://github.com/fudoge/Problem_Solving/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/fudoge/Problem_Solving/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fudoge/Problem_Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/fudoge/Problem_Solving/tree/master/2379-maximum-total-importance-of-roads) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/fudoge/Problem_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/fudoge/Problem_Solving/tree/master/3351-maximize-happiness-of-selected-children) |
 # Linked List
@@ -258,6 +260,7 @@
 | [0506-relative-ranks](https://github.com/fudoge/Problem_Solving/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/fudoge/Problem_Solving/tree/master/0621-task-scheduler) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fudoge/Problem_Solving/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/fudoge/Problem_Solving/tree/master/2379-maximum-total-importance-of-roads) |
 # Counting
 |  |
 | ------- |
@@ -359,6 +362,7 @@
 | [0310-minimum-height-trees](https://github.com/fudoge/Problem_Solving/tree/master/0310-minimum-height-trees) |
 | [0863-sum-of-distances-in-tree](https://github.com/fudoge/Problem_Solving/tree/master/0863-sum-of-distances-in-tree) |
 | [1916-find-center-of-star-graph](https://github.com/fudoge/Problem_Solving/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/fudoge/Problem_Solving/tree/master/2379-maximum-total-importance-of-roads) |
 # Topological Sort
 |  |
 | ------- |
