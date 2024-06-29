@@ -6,14 +6,31 @@ static const int __ = [](){
     return 0;
 }();
 
-
 class Solution {
 public:
+    void insertNum(vector<int>& arr, int num) {
+        if (arr.empty()) {
+            arr.push_back(num);
+            return;
+        }
+        int left = 0;
+        int right = arr.size() - 1;
+        while (left < right) {
+            int mid = (left + right) / 2;
+            if (num == arr[mid]) return;
+            else if (num > arr[mid]) left = mid + 1;
+            else right = mid;
+        }
+        if (arr[left] == num) return;
+        if (num > arr[left]) arr.insert(arr.begin() + left + 1, num);
+        else arr.insert(arr.begin() + left, num);
+    }
+
     vector<vector<int>> getAncestors(int n, vector<vector<int>>& edges) {
         vector<vector<int>> answer(n);
         vector<vector<int>> graph(n);
         vector<int> indegree(n, 0);
-        
+
         for (const auto &edge : edges) {
             int src = edge[0];
             int dst = edge[1];
@@ -31,22 +48,16 @@ public:
         while (!q.empty()) {
             int curr = q.front();
             q.pop();
-            
+
             for (const auto &nextNode : graph[curr]) {
                 for (int ancestor : answer[curr]) {
-                    if(find(answer[nextNode].begin(), answer[nextNode].end(), ancestor) == answer[nextNode].end())
-                        answer[nextNode].push_back(ancestor);
+                    insertNum(answer[nextNode], ancestor);
                 }
-                if(find(answer[nextNode].begin(), answer[nextNode].end(), curr) == answer[nextNode].end())
-                    answer[nextNode].push_back(curr);
+                insertNum(answer[nextNode], curr);
                 if (--indegree[nextNode] == 0) {
                     q.push(nextNode);
                 }
             }
-        }
-
-        for (int i = 0; i < n; i++) {
-            sort(answer[i].begin(), answer[i].end());
         }
 
         return answer;
