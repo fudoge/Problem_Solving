@@ -9,20 +9,18 @@ static const int __ = [](){
 class Solution {
 public:
     int findTheWinner(int n, int k) {
-        queue<int> q;
-
-        for(int i = 1; i <= n; i++) {
-            q.push(i);
+        vector<int> arr(n, 0);
+        for(int i = 0; i < n; i++) {
+            arr[i] = i+1;
         }
 
-        while(q.size() > 1) {
-            for(int i = 1; i < k; i++) {
-                q.push(q.front());
-                q.pop();
-            }
-            q.pop();
+        int start = 0;
+        k--;
+        while(arr.size() > 1) {
+            int idx = (start + k) % arr.size();
+            arr.erase(arr.begin()+idx);
+            start = idx;
         }
-
-        return q.front();
+        return arr[0];
     }
 };
