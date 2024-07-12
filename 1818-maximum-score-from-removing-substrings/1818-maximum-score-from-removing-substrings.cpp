@@ -1,44 +1,34 @@
-#pragma GCC optimize("03", "unroll-loops");
-static const int __ = [](){
-    ios_base::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 0;
-}();
-
 class Solution {
 public:
-    int removePairs(char firstChar, char secondChar, int point, string &str) {
-        stack<char> st;
-        int res = 0;
-        for (int i = 0; i < str.size(); i++) {
-            if (!st.empty() && st.top() == firstChar && str[i] == secondChar) {
-                st.pop();
-                res += point;
+    int maximumGain(string s, int x, int y) {
+        int aCount = 0;
+        int bCount = 0;
+        int lesser = min(x, y);
+        int ans = 0;
+
+        for(char ch : s) {
+            if(ch > 'b') {
+                ans += min(aCount, bCount) * lesser;
+                aCount = 0;
+                bCount = 0;
+            } else if(ch == 'a') {
+                if(x < y && bCount > 0) {
+                    bCount--;
+                    ans += y;
+                } else {
+                    aCount++;
+                }
             } else {
-                st.push(str[i]);
+                if(x > y && aCount > 0) {
+                    aCount--;
+                    ans += x;
+                } else {
+                    bCount++;
+                }
             }
         }
 
-        str.clear();
-        while (!st.empty()) {
-            str += st.top();
-            st.pop();
-        }
-        reverse(str.begin(), str.end());
-        return res;
-    }
-
-    int maximumGain(string s, int x, int y) {
-        int ans = 0;
-        if (x >= y) {
-            ans += removePairs('a', 'b', x, s);
-            ans += removePairs('b', 'a', y, s);
-        } else {
-            ans += removePairs('b', 'a', y, s);
-            ans += removePairs('a', 'b', x, s);
-        }
-
+        ans += min(aCount, bCount) * lesser;
         return ans;
     }
 };
