@@ -1,19 +1,20 @@
 class Solution {
 public:
-    string countOfAtoms(string formula) {
-        int i = 0;
-        unordered_map<string, int> atomCount = parseFormula(formula, i);
-        vector<pair<string, int>> sortedAtoms(atomCount.begin(), atomCount.end());
-        sort(sortedAtoms.begin(), sortedAtoms.end());
-
-        string result;
-        for (const auto& atom : sortedAtoms) {
-            result += atom.first;
-            if (atom.second > 1) {
-                result += to_string(atom.second);
-            }
+    string parseAtomName(const string& formula, int& i) {
+        string name;
+        name += formula[i++];
+        while (i < formula.size() && islower(formula[i])) {
+            name += formula[i++];
         }
-        return result;
+        return name;
+    }
+
+    int parseMultiplier(const string& formula, int& i) {
+        int multiplier = 0;
+        while (i < formula.size() && isdigit(formula[i])) {
+            multiplier = multiplier * 10 + (formula[i++] - '0');
+        }
+        return multiplier == 0 ? 1 : multiplier;
     }
 
     unordered_map<string, int> parseFormula(const string& formula, int& i) {
@@ -36,21 +37,19 @@ public:
         }
         return atomCount;
     }
+    string countOfAtoms(string formula) {
+        int i = 0;
+        unordered_map<string, int> atomCount = parseFormula(formula, i);
+        vector<pair<string, int>> sortedAtoms(atomCount.begin(), atomCount.end());
+        sort(sortedAtoms.begin(), sortedAtoms.end());
 
-    string parseAtomName(const string& formula, int& i) {
-        string name;
-        name += formula[i++];
-        while (i < formula.size() && islower(formula[i])) {
-            name += formula[i++];
+        string result;
+        for (const auto& atom : sortedAtoms) {
+            result += atom.first;
+            if (atom.second > 1) {
+                result += to_string(atom.second);
+            }
         }
-        return name;
-    }
-
-    int parseMultiplier(const string& formula, int& i) {
-        int multiplier = 0;
-        while (i < formula.size() && isdigit(formula[i])) {
-            multiplier = multiplier * 10 + (formula[i++] - '0');
-        }
-        return multiplier == 0 ? 1 : multiplier;
+        return result;
     }
 };
