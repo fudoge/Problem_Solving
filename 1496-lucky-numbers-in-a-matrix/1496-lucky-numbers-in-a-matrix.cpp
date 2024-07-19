@@ -2,7 +2,7 @@ class Solution {
 private:
     int m, n;
 public:
-    bool isMinima(int row, int col, vector<vector<int>>& matrix) {
+    bool isMaxima(int row, int col, vector<vector<int>>& matrix) {
         int maxIdx = 0;
         int maximum = matrix[0][col];
         for(int i = 1; i < m; i++) {
@@ -29,7 +29,7 @@ public:
                     minimum = matrix[i][j];
                 }
             }
-            if(isMinima(i, minIdx, matrix)) ans.push_back(minimum);
+            if(isMaxima(i, minIdx, matrix)) ans.push_back(minimum);
         }
 
         return ans;
