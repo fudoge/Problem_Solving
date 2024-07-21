@@ -8,12 +8,12 @@ public:
         }
 
         while (!q.empty()) {
-            int node = q.front();
+            int curr = q.front();
             q.pop();
-            order.push_back(node);
-            for (const int &neighbor : graph[node]) {
-                indegree[neighbor]--;
-                if (indegree[neighbor] == 0) q.push(neighbor);
+            order.push_back(curr);
+            for (const int &next : graph[curr]) {
+                indegree[next]--;
+                if (indegree[next] == 0) q.push(next);
             }
         }
 
