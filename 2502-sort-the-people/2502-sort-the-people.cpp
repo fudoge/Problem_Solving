@@ -13,7 +13,7 @@ public:
 
         int n = names.size();
         for(int i = 0; i < n; i++) {
-            pq.push(make_pair(heights[i], names[i]));
+            pq.push({heights[i], names[i]});
         }
 
         vector<string> ans;
