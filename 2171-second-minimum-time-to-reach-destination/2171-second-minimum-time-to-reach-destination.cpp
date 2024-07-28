@@ -31,8 +31,7 @@ public:
             q.pop();
 
             for(const auto &nextNode : graph[currNode]) {
-                int waitTime = 0;
-                if((currTime / change) % 2 == 1) waitTime += change -(currTime % change);
+                int waitTime = (currTime / change) % 2 == 1? change - (currTime % change) : 0;
                 int nextTime = currTime + waitTime + time;
                 if(firstDist[nextNode] > nextTime) {
                     q.push({nextNode, nextTime});
