@@ -11,7 +11,7 @@ public:
     int countSeniors(vector<string>& details) {
         int ans = 0;
         for(const auto &detail : details) {
-            if(stoi(detail.substr(11, 2)) > 60) ans++;
+            if((detail[11] - '0') * 10 + (detail[12] - '0') > 60) ans++;
         }
 
         return ans;
