@@ -1,6 +1,4 @@
 #pragma GCC optimize("O3", "unroll-loops")
-#include <bits/stdc++.h>
-using namespace std;
 
 static const int __ = []() {
     ios_base::sync_with_stdio(0);
