@@ -1,5 +1,8 @@
-#pragma GCC optimize("03", "unroll-loops");
-static const int __ = [](){
+#pragma GCC optimize("O3", "unroll-loops")
+#include <bits/stdc++.h>
+using namespace std;
+
+static const int __ = []() {
     ios_base::sync_with_stdio(0);
     cin.tie(0);
     cout.tie(0);
@@ -9,21 +12,27 @@ static const int __ = [](){
 class Solution {
 public:
     int rangeSum(vector<int>& nums, int n, int left, int right) {
-        vector<int> newNums;
-        for(int i = 0; i < n; i++) {
-            int sum = 0;
-            for(int j = i; j < n; j++) {
-                sum += nums[j];
-                newNums.push_back(sum);
+        vector<int> prefix(n + 1, 0);
+        for (int i = 0; i < n; ++i) {
+            prefix[i + 1] = prefix[i] + nums[i];
+        }
+        
+        vector<int> newSums;
+        newSums.reserve(n * (n + 1) / 2);
+        
+        for (int i = 0; i < n; ++i) {
+            for (int j = i + 1; j <= n; ++j) {
+                newSums.push_back(prefix[j] - prefix[i]);
             }
         }
-
-        long long ans = 0;
-        sort(newNums.begin(), newNums.end());
-        for(int i = left-1; i < right; i++) {
-            ans += newNums[i];
+        
+        sort(newSums.begin(), newSums.end());
+        
+        int ans = 0;
+        for (int i = left - 1; i < right; i++) {
+            ans = (ans + newSums[i]) % 1000000007;
         }
-
-        return ans % (int)(1e9 + 7);
+        
+        return ans;
     }
 };
