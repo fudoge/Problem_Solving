@@ -14,8 +14,7 @@ public:
         for(int i = 0; i < 3; i++) {
             for(int j = 0; j < 3; j++) {
                 int val = grid[i+r][j+c];
-                if(val < 1 || val > 9) return false;
-                if(table[val-1]) return false;
+                if(val < 1 || val > 9 || table[val-1]) return false;
                 table[val-1] = true;
                 sums[i] += val;
                 sums[3+j] += val;
