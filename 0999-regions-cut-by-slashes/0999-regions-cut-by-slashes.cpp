@@ -1,71 +1,69 @@
 class Solution {
-    vector<int> parent;
-    vector<int> rank;
-    int count;
-    
 public:
+    int find(vector<int>& parent, int x) {
+        if (parent[x] != x) {
+            parent[x] = find(parent, parent[x]);
+        }
+        return parent[x];
+    }
+    
+    void unite(vector<int>& parent, vector<int>& rank, int x, int y) {
+        int rootX = find(parent, x);
+        int rootY = find(parent, y);
+        if (rootX != rootY) {
+            if (rank[rootX] > rank[rootY]) {
+                parent[rootY] = rootX;
+            } else if (rank[rootX] < rank[rootY]) {
+                parent[rootX] = rootY;
+            } else {
+                parent[rootY] = rootX;
+                rank[rootX]++;
+            }
+        }
+    }
+
     int regionsBySlashes(vector<string>& grid) {
         int n = grid.size();
-        int dots = n + 1;
-        parent.resize(dots * dots);
-        rank.resize(dots * dots, 1);
-        count = 0;
-
-        // Initialize Union-Find structure
-        for (int i = 0; i < parent.size(); ++i) {
+        vector<int> parent(4 * n * n);
+        vector<int> rank(4 * n * n, 0);
+        
+        for (int i = 0; i < 4 * n * n; i++) {
             parent[i] = i;
         }
-
-        // Connect boundaries to the top-left corner (0,0)
-        for (int i = 0; i < dots; ++i) {
-            for (int j = 0; j < dots; ++j) {
-                if (i == 0 || j == 0 || i == n || j == n) {
-                    int cell = i * dots + j;
-                    unionSets(0, cell);
-                }
-            }
-        }
-
-        // Process each cell and connect regions based on slashes
+        
         for (int i = 0; i < n; ++i) {
             for (int j = 0; j < n; ++j) {
-                if (grid[i][j] == '\\') {
-                    int cell1 = i * dots + j;
-                    int cell2 = (i + 1) * dots + (j + 1);
-                    unionSets(cell1, cell2);
-                } else if (grid[i][j] == '/') {
-                    int cell1 = (i + 1) * dots + j;
-                    int cell2 = i * dots + (j + 1);
-                    unionSets(cell1, cell2);
+                int index = 4 * (i * n + j);
+                char val = grid[i][j];
+                
+                if (val == '/') {
+                    unite(parent, rank, index + 0, index + 3);
+                    unite(parent, rank, index + 1, index + 2);
+                } else if (val == '\\') {
+                    unite(parent, rank, index + 0, index + 1);
+                    unite(parent, rank, index + 2, index + 3);
+                } else {
+                    unite(parent, rank, index + 0, index + 1);
+                    unite(parent, rank, index + 1, index + 2);
+                    unite(parent, rank, index + 2, index + 3);
+                }
+                
+                if (i > 0) {
+                    unite(parent, rank, index + 0, (index - 4 * n) + 2);
+                }
+                if (j > 0) {
+                    unite(parent, rank, index + 3, (index - 4) + 1);
                 }
             }
         }
-
-        return count;
-    }
-    
-private:
-    void unionSets(int a, int b) {
-        int parentA = find(a);
-        int parentB = find(b);
-        if (parentA == parentB) {
-            count++;
-        } else {
-            if (rank[parentA] > rank[parentB]) {
-                parent[parentB] = parentA;
-            } else if (rank[parentA] < rank[parentB]) {
-                parent[parentA] = parentB;
-            } else {
-                parent[parentB] = parentA;
-                rank[parentA]++;
+        
+        int regions = 0;
+        for (int i = 0; i < 4 * n * n; i++) {
+            if (find(parent, i) == i) {
+                regions++;
             }
         }
-    }
-    
-    int find(int a) {
-        if (parent[a] == a) {
-            return a;
-        }
-        return parent[a] = find(parent[a]);
+        
+        return regions;
     }
 };
