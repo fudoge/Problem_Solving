@@ -18,6 +18,10 @@ public:
         for(int i = 0; i < m; i++) {
             for(int j = 0; j < n; j++) {
                 if(grid[i][j] && !visited[i][j]) {
+                    if(res.size() == 1) {
+                        res.push_back(1);
+                        return res;
+                    }
                     int size = 1;
                     queue<pair<int, int>> q;
                     q.push({i, j});
