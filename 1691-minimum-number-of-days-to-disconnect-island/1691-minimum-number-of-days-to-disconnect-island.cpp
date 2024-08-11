@@ -64,7 +64,7 @@ public:
                     grid[i][j] = 0;
                     auto islandsWithPunch = traverse(grid);
                     grid[i][j] = 1;
-                    if(islandsWithPunch.size() != 1) ans = min(ans, 1);
+                    if(islandsWithPunch.size() != 1) return 1;
                 }
             }
         }
