@@ -1,3 +1,11 @@
+#pragma GCC optimize("03", "unroll-loops");
+static const int __ = [](){
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 0;
+}();
+
 class Solution {
 private:
     int n;
@@ -12,8 +20,8 @@ public:
         }
 
         for(int i = idx; i < n; i++) {
-            if (i > idx && candidates[i] == candidates[i - 1]) continue; // 중복 방지
-            if (sum + candidates[i] > target) break; // 가지치기
+            if (i > idx && candidates[i] == candidates[i - 1]) continue;
+            if (sum + candidates[i] > target) break;
 
             combination.push_back(candidates[i]);
             solve(i+1, sum + candidates[i], combination, candidates);
