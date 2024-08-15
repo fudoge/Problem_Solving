@@ -11,11 +11,9 @@ public:
     bool lemonadeChange(vector<int>& bills) {
         int five = 0;
         int ten = 0;
-        int twelve = 0;
 
         for(const auto &bill : bills) {
-            if(bill == 20) twelve++;
-            else if(bill == 10) ten++;
+            if(bill == 10) ten++;
             else if(bill == 5) five++;
 
             int charge = bill - 5;
