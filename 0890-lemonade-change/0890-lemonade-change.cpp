@@ -20,10 +20,7 @@ public:
 
             int charge = bill - 5;
             while(charge > 0) {
-                if(twelve && charge >= 20) {
-                    charge -= 20;
-                    twelve--;
-                } else if(ten && charge >= 10) {
+                if(ten && charge >= 10) {
                     charge -= 10;
                     ten--;
                 } else if(five && charge >= 5) {
