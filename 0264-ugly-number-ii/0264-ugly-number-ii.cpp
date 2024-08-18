@@ -1,28 +1,23 @@
 class Solution {
 public:
     int nthUglyNumber(int n) {
-        priority_queue<int, vector<int>, greater<int>> pq;
-        set<int> s;
-        pq.push(1);
-        while(true) {
-            long long x = pq.top();
-            if(--n <= 0) return x;
-            pq.pop();
-            s.erase(x);
+        vector<int> arr(n+1);
+        int i2, i3, i5;
+        i2 = i3 = i5 = 1;
+        arr[1] = 1;
 
-            if(x*2 <= INT_MAX && s.find(x*2) == s.end()) {
-                pq.push(x*2);
-                s.insert(x*2);
-            }
-            if(x*3 <= INT_MAX && s.find(x*3) == s.end()) {
-                pq.push(x*3);
-                s.insert(x*3);
-            }
-            if(x*5 <= INT_MAX && s.find(x*5) == s.end()) {
-                pq.push(x*5);
-                s.insert(x*5);
-            }
+        for(int i = 2; i < n+1; i++) {
+            int i2ug = arr[i2] * 2;
+            int i3ug = arr[i3] * 3;
+            int i5ug = arr[i5] * 5;
+
+            arr[i] = min(i2ug, min(i3ug, i5ug));
+            
+            if(arr[i] == i2ug) i2++;
+            if(arr[i] == i3ug) i3++;
+            if(arr[i] == i5ug) i5++;
         }
-        return -1;
+
+        return arr[n];
     }
 };
