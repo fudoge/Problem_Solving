@@ -16,6 +16,7 @@ public:
         for(int i = 2; i <= n/2; i++) {
             if(n % i == 0) {
                 res.insert(i);
+                res.insert(n/i);
             }
         }
         return res;
@@ -29,7 +30,6 @@ public:
         
         for(auto &divisor : divisors) {
             res = min(res, solve(n / divisor) + divisor);
-            res = min(res, solve(divisor) + n / divisor);
         }
 
         return dp[n] = res;
