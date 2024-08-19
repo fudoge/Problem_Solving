@@ -21,7 +21,6 @@ public:
         return res;
     }
     int solve(int n) {
-        if(n <= 1) return 0;
         if(dp[n] != -1) return dp[n];
         if(primes.find(n) != primes.end()) return dp[n] = n;
 
