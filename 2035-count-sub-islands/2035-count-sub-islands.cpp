@@ -29,7 +29,7 @@ private:
 
                 if(nx < 0 || nx >= m || ny < 0 || ny >= n) continue;
                 if(!visited[nx][ny] && grid2[nx][ny]) {
-                    if(!grid1[nx][ny] && grid2[nx][ny]) flag = false;
+                    if(!grid1[nx][ny]) flag = false;
                     visited[nx][ny] = true;
                     q.push({nx, ny});
                 }
