@@ -107,8 +107,6 @@ public:
                 }
                 ans = max(ans, pos.first*pos.first + pos.second*pos.second);
             }
-            
-            // cout << "{" << pos.first << ", " << pos.second << "}, dir: " << directions[dircode] << endl;
         }
 
         return ans;
