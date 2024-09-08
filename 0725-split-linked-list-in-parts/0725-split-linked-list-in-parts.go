@@ -18,7 +18,7 @@ func splitListToParts(head *ListNode, k int) []*ListNode {
     div := n / k
     var prev *ListNode
     curr = head
-    ans := make([]*ListNode,0)
+    ans := make([]*ListNode, 0, k)
 
     for i := 0; i < rest; i++ {
         ans = append(ans, curr)
