@@ -1,18 +1,20 @@
 class Solution {
 public:
     vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
+        vector<int> table(arr.size());
         vector<int> ans;
+        table[0] = arr[0];
+        for(int i = 1; i < arr.size(); ++i) {
+            table[i] = table[i-1] ^ arr[i];
+        }
+
         for(const auto &query : queries) {
             int from = query[0];
             int to = query[1];
-
-            int res = arr[from];
-            for(int i = from+1; i <= to; ++i) {
-                res ^= arr[i];
-            }
-            ans.push_back(res);
+            
+            if(from == 0) ans.push_back(table[to]);
+            else ans.push_back(table[from-1] ^ table[to]);
         }
-
         return ans;
     }
 };
