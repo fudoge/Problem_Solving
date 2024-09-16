@@ -8,13 +8,11 @@ public:
         for(const auto &time : timePoints) {
             minutes.push_back(timeToMins(time));
         }
+        sort(minutes.begin(), minutes.end());
 
-        int minDiff = INT_MAX;
-        for(int i = 0; i < minutes.size()-1; i++) {
-            for(int j = i+1; j < minutes.size(); j++) {
-                minDiff = min(minDiff, (minutes[i] - minutes[j] + 1440) % 1440);
-                minDiff = min(minDiff, (minutes[j] - minutes[i] + 1440) % 1440);
-            }
+        int minDiff = 1440 + minutes[0] - minutes.back();
+        for(int i = 1; i < minutes.size(); i++) {
+            minDiff = min(minDiff, minutes[i] - minutes[i-1]);
         }
 
         return minDiff;
