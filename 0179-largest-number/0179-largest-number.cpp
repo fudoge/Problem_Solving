@@ -15,7 +15,7 @@ public:
             return A + B > B + A;
         });
 
-        if(nums[0] == 0 && nums[nums.size()-1] == 0) return "0";
+        if(nums[0] == 0) return "0";
 
         string ans = "";
         for(auto &num : nums) {
