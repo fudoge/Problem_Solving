@@ -15,16 +15,13 @@ public:
             return A + B > B + A;
         });
 
+        if(nums[0] == 0 && nums[nums.size()-1] == 0) return "0";
+
         string ans = "";
         for(auto &num : nums) {
             ans += to_string(num);
         }
 
-        int i = 0;
-        while(i < ans.size()-1 && ans[i] == '0') {
-            i++;
-        }
-        ans = ans.substr(i, ans.size()-i);
         return ans;
     }
 };
