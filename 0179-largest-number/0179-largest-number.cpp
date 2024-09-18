@@ -20,9 +20,11 @@ public:
             ans += to_string(num);
         }
 
-        while(ans[0] == '0' && ans.size() >= 2) {
-            ans = ans.substr(1, ans.size()-1);
+        int i = 0;
+        while(i < ans.size()-1 && ans[i] == '0') {
+            i++;
         }
+        ans = ans.substr(i, ans.size()-i);
         return ans;
     }
 };
