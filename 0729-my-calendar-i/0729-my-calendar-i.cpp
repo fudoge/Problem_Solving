@@ -8,27 +8,24 @@ public:
     
     bool book(int start, int end) {
         int n = table.size();
-        end--;
-
-        if(n == 0) {
-            table.push_back({start, end});
-            return true;
-        }
-
-        if(end < table[0].first) {
-            table.insert(table.begin(), {start, end});
-            return true;
-        }
-        for(int i = 0; i < n-1; ++i) {
-            if(start > table[i].second && end < table[i+1].first) {
-                table.insert(table.begin()+i+1, {start, end});
-                return true;
+        
+        int left = 0;
+        int right = n;
+        
+        while (left < right) {
+            int mid = (left + right) / 2;
+            if (table[mid].second <= start) {
+                left = mid + 1;
+            } else {
+                right = mid;
             }
         }
-        if(start > table[n-1].second) {
-            table.push_back({start, end});
+        
+        if ((left == 0 || table[left-1].second <= start) && (left == n || end <= table[left].first)) {
+            table.insert(table.begin() + left, {start, end});
             return true;
         }
+        
         return false;
     }
 };
