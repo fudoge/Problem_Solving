@@ -2,7 +2,7 @@
 static const int __ = [](){
     ios_base::sync_with_stdio(0);
     cin.tie(0);
-    cou.tie(0);
+    cout.tie(0);
     return 0;
 }();
 
