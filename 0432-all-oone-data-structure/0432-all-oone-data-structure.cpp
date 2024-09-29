@@ -1,43 +1,120 @@
+struct Node {
+    int freq;
+    Node* prev;
+    Node* next;
+    unordered_set<string> keys;
+
+    Node(int c) : freq(c), prev(nullptr), next(nullptr) {}
+};
+
 class AllOne {
 private:
-    unordered_map<string, int> count; 
-    set<pair<int, string>> sets;
+    Node* head;
+    Node* tail;
+    unordered_map<string, Node*> map;
+
+    void removeNode(Node* node) {
+        Node* prevNode = node->prev;
+        Node* nextNode = node->next;
+
+        prevNode->next = nextNode;
+        nextNode->prev = prevNode;
+        delete node;
+    }
 public:
     AllOne() {
-        count.clear();
+        head = new Node(0);
+        tail = new Node(0);
+        head->next = tail;
+        tail->prev = head;
+    }
+    
+    ~AllOne() {
+        Node* current = head;
+        while(current != nullptr) {
+            Node* next = current->next;
+            delete current;
+            current = next;
+        }
     }
     
     void inc(string key) {
-        int n = count[key];
-        count[key]++;
-        sets.erase({n, key});
-        sets.insert({n+1, key});
+        if(map.find(key) != map.end()) {
+            Node* node = map[key];
+            int freq = node->freq;
+            node->keys.erase(key);
+
+            Node* nextNode = node->next;
+            if(nextNode == tail || nextNode->freq != freq + 1) {
+                Node* newNode = new Node(freq + 1);
+                newNode->keys.insert(key);
+                newNode->prev = node;
+                newNode->next = nextNode;
+                node->next = newNode;
+                nextNode->prev = newNode;
+                map[key] = newNode;
+            } else {
+                nextNode->keys.insert(key);
+                map[key] = nextNode;
+            }
+
+            if(node->keys.empty()) {
+                removeNode(node);
+            }
+        } else {
+            Node* firstNode = head->next;
+            if(firstNode == tail || firstNode->freq > 1) {
+                Node* newNode = new Node(1);
+                newNode->keys.insert(key);
+                newNode->prev = head;
+                newNode->next = firstNode;
+                head->next = newNode;
+                firstNode->prev = newNode;
+                map[key] = newNode;
+            } else {
+                firstNode->keys.insert(key);
+                map[key] = firstNode;
+            }
+        }
     }
     
     void dec(string key) {
-       int n = count[key];
-        count[key]--;
-        sets.erase({n, key});
-        if(n-1 > 0) sets.insert({n-1, key});
-        else count.erase(key);
+        if(map.find(key) == map.end()) return;
+
+        Node* node = map[key];
+        node->keys.erase(key);
+        int freq = node->freq;
+
+        if(freq == 1) {
+            map.erase(key);
+        } else {
+            Node* prevNode = node->prev;
+            if (prevNode == head || prevNode->freq != freq - 1) {
+                Node* newNode = new Node(freq - 1);
+                newNode->keys.insert(key);
+                newNode->prev = prevNode;
+                newNode->next = node;
+                prevNode->next = newNode;
+                node->prev = newNode;
+                map[key] = newNode;
+            } else {
+                prevNode->keys.insert(key);
+                map[key] = prevNode;
+            }
+        }
+
+        if(node->keys.empty()) {
+            removeNode(node);
+        }
     }
     
     string getMaxKey() {
-        if(!sets.empty()) return sets.rbegin() -> second;
-        return "";
+        if(tail->prev == head) return "";
+        return *(tail->prev->keys.begin());
     }
     
     string getMinKey() {
-        if(!sets.empty()) return sets.begin() -> second;
-        return "";
+        if(head->next == tail) return "";
+        return *(head->next->keys.begin());
     }
 };
-
-/**
- * Your AllOne object will be instantiated and called as such:
- * AllOne* obj = new AllOne();
- * obj->inc(key);
- * obj->dec(key);
- * string param_3 = obj->getMaxKey();
- * string param_4 = obj->getMinKey();
- */
