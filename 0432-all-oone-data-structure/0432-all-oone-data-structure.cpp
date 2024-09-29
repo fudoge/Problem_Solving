@@ -29,15 +29,6 @@ public:
         tail->prev = head;
     }
     
-    ~AllOne() {
-        Node* current = head;
-        while(current != nullptr) {
-            Node* next = current->next;
-            delete current;
-            current = next;
-        }
-    }
-    
     void inc(string key) {
         if(map.find(key) != map.end()) {
             Node* node = map[key];
