@@ -1,15 +1,25 @@
+#pragma GCC optimize("03", "unroll-loops");
+static const int __ = [](){
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 0;
+}();
+
 class CustomStack {
 private:
     vector<int> arr;
     int top;
+    int maxSize;
 public:
     CustomStack(int maxSize) {
         top = -1;
+        this -> maxSize = maxSize;
         arr.resize(maxSize);
     }
     
     void push(int x) {
-        if(top == arr.size()-1) return;
+        if(top == maxSize-1) return;
         top++;
         arr[top] = x;
     }
