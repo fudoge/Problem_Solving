@@ -9,6 +9,7 @@ static const int __ = [](){
 class CustomStack {
 private:
     vector<int> arr;
+    vector<int> inc;
     int top;
     int maxSize;
 public:
@@ -16,6 +17,7 @@ public:
         top = -1;
         this -> maxSize = maxSize;
         arr.resize(maxSize);
+        inc.resize(maxSize, 0);
     }
     
     void push(int x) {
@@ -26,14 +28,20 @@ public:
     
     int pop() {
         if(top < 0) return -1;
-        int popped = arr[top];
+        int popped = arr[top] + inc[top];
+
+        if(top > 0) {
+            inc[top-1] += inc[top];
+        }
+        inc[top] = 0;
         top--;
         return popped;
     }
     
     void increment(int k, int val) {
-        for(int i = 0; i < k && i <= top; ++i) {
-            arr[i] += val;
+        if(top >= 0) {
+            int limit = min(k-1, top);
+            inc[limit] += val;
         }
     }
 };
