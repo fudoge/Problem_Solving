@@ -28,10 +28,9 @@ public:
             if (to_match == 0) return true;
 
             if (right - left == s1.size()) {
-                if (count[s2[left] - 'a'] >= 0) {
+                if (++count[s2[left] - 'a'] > 0) {
                     to_match++;
                 }
-                count[s2[left] - 'a']++;
                 left++;
             }
         }
