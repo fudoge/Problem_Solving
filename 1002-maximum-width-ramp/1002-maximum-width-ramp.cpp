@@ -18,9 +18,9 @@ public:
             }
         }
         int maxRamp = 0;
-        for(int i = n-1; i >= 0; --i) {
-            while(!s.empty() && nums[s.top()] <= nums[i]) {
-                maxRamp = max(maxRamp, i - s.top());
+        for(int j = n-1; j >= 0; --j) {
+            while(!s.empty() && nums[s.top()] <= nums[j]) {
+                maxRamp = max(maxRamp, j - s.top());
                 s.pop();
             }
         }
