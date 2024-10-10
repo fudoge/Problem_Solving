@@ -25,6 +25,6 @@ public:
             }
         }
 
-        return maxRamp > 0? maxRamp : 0;
+        return maxRamp;
     }
 };
