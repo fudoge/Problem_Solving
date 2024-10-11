@@ -17,7 +17,7 @@ public:
         }
 
         int maxSeatNo = 0;
-        while(true) {
+        while(!inComing.empty()) {
             int currFriend = inComing.top()[0];
             int currIn = inComing.top()[1];
             int currOut = inComing.top()[2];
