@@ -16,22 +16,18 @@ class Solution {
 public:
     int smallestChair(vector<vector<int>>& times, int targetFriend) {
         int n = times.size();
-        priority_queue<vector<int>, vector<vector<int>>, comp> inComing; //{No., start, end}
         priority_queue<vector<int>, vector<vector<int>>, comp> outGoing; //{chariNo., end}
         priority_queue<int, vector<int>, greater<int>> nextSeats; // {charirNo.}
 
+        int targetTime = times[targetFriend][0];
+        sort(times.begin(), times.end());
+        int maxChairNo = 0;
+        int ans = 0;
+
         for(int i = 0; i < n; ++i) {
-            inComing.push({i, times[i][0], times[i][1]});
-        }
-
-        int maxSeatNo = 0;
-        while(!inComing.empty()) {
-            int currFriend = inComing.top()[0];
-            int currIn = inComing.top()[1];
-            int currOut = inComing.top()[2];
-            inComing.pop();
-
-            while(!outGoing.empty() && currIn >= outGoing.top()[1]) {
+            int starts = times[i][0];
+            int ends = times[i][1];
+            while(!outGoing.empty() && starts >= outGoing.top()[1]) {
                 nextSeats.push(outGoing.top()[0]);
                 outGoing.pop();
             }
@@ -41,13 +37,14 @@ public:
                 seat = nextSeats.top();
                 nextSeats.pop();
             } else {
-                seat = maxSeatNo++;
+                seat = maxChairNo++;
             }
-
-            if(currFriend == targetFriend) return seat;
-            outGoing.push({seat, currOut});
+            if(starts == targetTime) {
+                ans = seat;
+                break;
+            }
+            outGoing.push({seat, ends});
         }
-
-        return -1;
+        return ans;
     }
 };
