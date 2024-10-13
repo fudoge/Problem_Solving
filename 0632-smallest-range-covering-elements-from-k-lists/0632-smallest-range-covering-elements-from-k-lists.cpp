@@ -7,10 +7,6 @@ static const int __ = [](){
 }();
 
 class Solution {
-private:
-    pair<int, int> minMax(vector<int>& represents) {
-        return {*min_element(represents.begin(), represents.end()), *max_element(represents.begin(), represents.end())};
-    }
 public:
     vector<int> smallestRange(vector<vector<int>>& nums) {
         vector<pair<int, int>> arr;
