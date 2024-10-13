@@ -22,26 +22,39 @@ public:
         }
 
         sort(arr.begin(), arr.end());
-        vector<int> represents(n);
-        for(int i = 0; i < n; ++i) {
-            represents[i] = nums[i][0];
-        }
+        unordered_map<int, int> count;
+        int left = 0, minWidth = INT_MAX;
+        int rangeStart = -1, rangeEnd = -1;
+        int uniqueLists = 0;
 
-        int m = arr.size();
-        int minWidth = INT_MAX;
-        int rangeStarts = *min_element(represents.begin(), represents.end());
-        vector<int> ans(2);
-        for(int i = 0; i < m; ++i) {
-            represents[arr[i].second] = arr[i].first;
-            auto minAndMax = minMax(represents);
-            int gap = abs(minAndMax.second - minAndMax.first);
-            if(gap < minWidth || minAndMax.first < rangeStarts) {
-                ans = {minAndMax.first, minAndMax.second};
-                minWidth = gap;
-                rangeStarts = minAndMax.first;
+        for(int right = 0; right < arr.size(); ++right) {
+            int rightVal = arr[right].first;
+            int listIdx = arr[right].second;
+
+            if(count[listIdx] == 0) {
+                uniqueLists++;
+            }
+            count[listIdx]++;
+
+            while(uniqueLists == n && left <= right) {
+                int leftVal = arr[left].first;
+                int currRange = rightVal - leftVal;
+
+                if(currRange < minWidth) {
+                    minWidth = currRange;
+                    rangeStart = leftVal;
+                    rangeEnd = rightVal;
+                }
+
+                int leftListIdx = arr[left].second;
+                count[leftListIdx]--;
+                if(count[leftListIdx] == 0) {
+                    uniqueLists--;
+                }
+                left++;
             }
         }
 
-        return ans;
+        return {rangeStart, rangeEnd};
     }
 };
