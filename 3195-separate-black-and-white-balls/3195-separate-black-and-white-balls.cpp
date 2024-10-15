@@ -10,18 +10,13 @@ class Solution {
 public:
     long long minimumSteps(string s) {
         int n = s.size();
-        int left = 0;
-        int right = n-1;
+        int ones = 0;
         long long ans = 0;
 
-        while(left < right) {
-            while(left < right && s[left] == '0') left++;
-            while(left < right && s[right] == '1') right--;
-
-            ans += right - left;
-            swap(s[left], s[right]);
+        for(const auto &ch : s) {
+            if(ch == '1') ones++;
+            else ans += ones;
         }
-
         return ans;
     }
 };
