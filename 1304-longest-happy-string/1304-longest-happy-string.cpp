@@ -19,8 +19,6 @@ public:
         while (!pq.empty()) {
             auto top = pq.top();
             pq.pop();
-
-            if (top.second == 0) continue;
             
             if (top.first == last && streak == 2) {
                 if (pq.empty()) break;
