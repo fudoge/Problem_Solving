@@ -576,6 +576,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/fudoge/Problem_Solving/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fudoge/Problem_Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/fudoge/Problem_Solving/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/fudoge/Problem_Solving/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/fudoge/Problem_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/fudoge/Problem_Solving/tree/master/1304-longest-happy-string) |
@@ -626,6 +627,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/fudoge/Problem_Solving/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/fudoge/Problem_Solving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/fudoge/Problem_Solving/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/fudoge/Problem_Solving/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/fudoge/Problem_Solving/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/fudoge/Problem_Solving/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/fudoge/Problem_Solving/tree/master/1642-water-bottles) |
