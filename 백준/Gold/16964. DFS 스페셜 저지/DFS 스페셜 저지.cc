@@ -10,12 +10,12 @@ int main(int argc, char *argv[]) {
   cout.tie(0);
 
   cin >> n;
-  vector<vector<int>> graph(n + 1);
+  vector<set<int>> graph(n + 1);
   int parent, child;
   for (int i = 0; i < n - 1; ++i) {
     cin >> parent >> child;
-    graph[parent].emplace_back(child);
-    graph[child].emplace_back(parent);
+    graph[parent].insert(child);
+    graph[child].insert(parent);
   }
 
   queue<int> q;
@@ -41,8 +41,7 @@ int main(int argc, char *argv[]) {
     q.pop();
 
     while (!stk.empty() &&
-           find(graph[stk.top()].begin(), graph[stk.top()].end(), next) ==
-               graph[stk.top()].end()) {
+           graph[stk.top()].find(next) == graph[stk.top()].end()) {
       stk.pop();
     }
     if (stk.empty()) {
