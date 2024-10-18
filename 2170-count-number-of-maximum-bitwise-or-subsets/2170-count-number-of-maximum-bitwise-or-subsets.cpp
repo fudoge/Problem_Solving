@@ -6,25 +6,28 @@ static const int __ = [](){
     return 0;
 }();
 class Solution {
+private:
+    int maxOR;
+    int n;
+    int ans;
+    void solve(int i, int masked, vector<int>& nums) {
+        if(i >= n) {
+            if(masked == maxOR) ans++;
+            return;
+        }
+
+        solve(i+1, masked, nums);
+        solve(i+1, masked | nums[i], nums);
+    }
 public:
     int countMaxOrSubsets(vector<int>& nums) {
-        int n = nums.size();
-        int limit = pow(2, n);
-        int maxOR = 0;
+        n = nums.size();
         for(const auto &num : nums) {
             maxOR |= num;
         }
 
-        int ans = 0;
-        for(int i = 0; i < limit; ++i) {
-            int k = i;
-            int x = 0;
-            for(int j = 0; j < n; ++j) {
-                x |= (k % 2 == 1)? nums[j] : 0;
-                k >>= 1;
-            }
-            if(x == maxOR) ans++;
-        }
+        solve(0, 0, nums);
+
         return ans;
     }
 };
