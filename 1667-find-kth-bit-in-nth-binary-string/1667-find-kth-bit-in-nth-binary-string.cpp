@@ -10,7 +10,7 @@ public:
         else if(k < mid) {
             return findKthBit(n-1, k);
         } else {
-            char res = findKthBit(n-1, 2*mid-k);
+            char res = findKthBit(n-1, len-k+1);
             return (res == '0')?'1':'0';
         }
     }
