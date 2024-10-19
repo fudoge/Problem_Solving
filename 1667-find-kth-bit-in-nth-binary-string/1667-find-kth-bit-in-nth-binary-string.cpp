@@ -11,9 +11,7 @@ public:
             return findKthBit(n-1, k);
         } else {
             char res = findKthBit(n-1, 2*mid-k);
-            if(res == '0') res = '1';
-            else res = '0';
-            return res;
+            return (res == '0')?'1':'0';
         }
     }
 };
