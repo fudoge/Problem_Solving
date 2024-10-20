@@ -4,7 +4,7 @@ public:
         stack<char> operators;
         stack<char> operands;
 
-        for(char ch : expression) {
+        for(const char& ch : expression) {
             if(ch == '&' || ch == '|' || ch == '!') {
                 operators.push(ch);
             } else if(ch == '(') {
