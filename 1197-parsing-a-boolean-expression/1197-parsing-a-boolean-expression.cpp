@@ -1,10 +1,17 @@
+#pragma GCC optimize("03", "unroll-loops");
+static const int __ = [](){
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 0;
+}();
 class Solution {
 public:
     bool parseBoolExpr(string expression) {
         stack<char> operators;
         stack<char> operands;
 
-        for(const char& ch : expression) {
+        for(const char &ch : expression) {
             if(ch == '&' || ch == '|' || ch == '!') {
                 operators.push(ch);
             } else if(ch == '(') {
