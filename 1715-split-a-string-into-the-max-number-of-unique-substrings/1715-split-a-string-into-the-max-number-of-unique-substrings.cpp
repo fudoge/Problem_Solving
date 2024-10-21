@@ -14,6 +14,7 @@ private:
     void solve(int idx, int count, string &s) {
         if(idx >= n) {
             ans = max(ans, count);
+            return;
         }
 
         string temp = string(1, s[idx]);
