@@ -3,73 +3,34 @@
 using namespace std;
 
 int n;
+vector<int> cols, primaryDiag,
+    secondaryDiag; // primaryDiag: topleft -> bottomright // secondaryDiag:
+                   // bottomleft -> topright
 
-void putOnBoard(int r, int c, vector<vector<int>> &board) {
-  for (int i = 0; i < n; ++i) {
-    board[r][i]++;
-    board[i][c]++;
-  }
-  for (int i = 1; r + i < n && c - i >= 0; ++i) {
-    board[r + i][c - i]++;
-  }
-  for (int i = 1; r - i >= 0 && c + i < n; ++i) {
-    board[r - i][c + i]++;
-  }
-  for (int i = 1; r - i >= 0 && c - i >= 0; ++i) {
-    board[r - i][c - i]++;
-  }
-  for (int i = 1; r + i < n && c + i < n; ++i) {
-    board[r + i][c + i]++;
-  }
-
-  board[r][c]--;
-}
-
-void removeFromBoard(int r, int c, vector<vector<int>> &board) {
-  for (int i = 0; i < n; ++i) {
-    board[r][i]--;
-    board[i][c]--;
-  }
-  for (int i = 1; r + i < n && c - i >= 0; ++i) {
-    board[r + i][c - i]--;
-  }
-  for (int i = 1; r - i >= 0 && c + i < n; ++i) {
-    board[r - i][c + i]--;
-  }
-  for (int i = 1; r - i >= 0 && c - i >= 0; ++i) {
-    board[r - i][c - i]--;
-  }
-  for (int i = 1; r + i < n && c + i < n; ++i) {
-    board[r + i][c + i]--;
-  }
-
-  board[r][c]++;
-}
-
-int solve(int row, vector<vector<int>> &board) {
-  if (row >= n) {
+int solve(int row) {
+  if (row >= n)
     return 1;
-  }
   int res = 0;
-  for (int i = 0; i < n; ++i) {
-    if (board[row][i] == 0) {
-      putOnBoard(row, i, board);
-      res += solve(row + 1, board);
-      removeFromBoard(row, i, board);
-    }
+  for (int col = 0; col < n; ++col) {
+    if (cols[col] || primaryDiag[row + col] || secondaryDiag[row - col + n - 1])
+      continue;
+
+    cols[col]++;
+    primaryDiag[row + col]++;
+    secondaryDiag[row - col + n - 1]++;
+    res += solve(row + 1);
+    cols[col]--;
+    primaryDiag[row + col]--;
+    secondaryDiag[row - col + n - 1]--;
   }
   return res;
 }
 
 int main(int argc, char *argv[]) {
   cin >> n;
-  if (n == 1) {
-    cout << "1\n";
-    return 0;
-  }
-  vector<vector<int>> board(n, vector<int>(n, 0));
-
-  cout << solve(0, board) << "\n";
-
+  cols.resize(n, 0);
+  primaryDiag.resize(2 * n - 1, 0);
+  secondaryDiag.resize(2 * n - 1, 0);
+  cout << solve(0) << "\n";
   return 0;
 }
