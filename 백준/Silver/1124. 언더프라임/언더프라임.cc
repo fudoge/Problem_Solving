@@ -10,6 +10,8 @@ bool isUnderprime(int x) {
     return false;
   int cnt = 0;
   for (int i = 2; i <= x; ++i) {
+    if (!isPrime[i])
+      continue;
     while (x % i == 0) {
       x /= i;
       cnt++;
