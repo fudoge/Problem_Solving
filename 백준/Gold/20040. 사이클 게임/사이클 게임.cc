@@ -42,21 +42,25 @@ bool solve() {
 }
 
 int main(int argc, char *argv[]) {
+  ios_base::sync_with_stdio(0);
+  cin.tie(0);
+
   cin >> n >> m;
   memset(parent, -1, sizeof(parent));
   for (int i = 0; i < 500001; ++i) {
     groupsize[i]++;
   }
+  bool cyclefound = false;
   while (m--) {
-    bool res = solve();
-    if (res) {
-      while (m--)
-        cin >> a >> b;
-      exit(0);
+    if (cyclefound) {
+      cin >> a >> b;
+      continue;
     }
+    cyclefound = solve();
   }
 
-  cout << "0\n";
+  if (!cyclefound)
+    cout << "0\n";
 
   return 0;
 }
