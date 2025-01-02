@@ -4,17 +4,6 @@ using namespace std;
 
 int n;
 
-bool isPrime(int x) {
-  if (x == 2 || x == 3)
-    return true;
-  int r = sqrt(x);
-  for (int i = 2; i <= r; ++i) {
-    if (x % i == 0)
-      return false;
-  }
-  return true;
-}
-
 int main(int argc, char *argv[]) {
   cin >> n;
 
@@ -25,11 +14,9 @@ int main(int argc, char *argv[]) {
   for (int i = 2; i <= n; ++i) {
     if (!sieve[i])
       continue;
-    if (isPrime(i)) {
-      primes.push_back(i);
-      for (int j = i; j <= n; j += i) {
-        sieve[j] = false;
-      }
+    primes.push_back(i);
+    for (int j = i; j <= n; j += i) {
+      sieve[j] = false;
     }
   }
 
