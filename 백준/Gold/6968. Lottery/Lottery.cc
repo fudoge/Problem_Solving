@@ -14,7 +14,7 @@ void solve() {
   while (ss >> temp) {
     tokens.push_back(temp);
   }
-  if (tokens.size() == 3) {
+  if (tokens.size() <= 3) {
     cout << s << "\n";
     return;
   }
