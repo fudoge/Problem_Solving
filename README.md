@@ -415,6 +415,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/fudoge/Problem_Solving/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/fudoge/Problem_Solving/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/fudoge/Problem_Solving/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/fudoge/Problem_Solving/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Graph
 |  |
@@ -440,6 +441,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/fudoge/Problem_Solving/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/fudoge/Problem_Solving/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/fudoge/Problem_Solving/tree/master/2035-count-sub-islands) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Array
 |  |
 | ------- |
@@ -499,6 +501,7 @@
 | [2502-sort-the-people](https://github.com/fudoge/Problem_Solving/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/fudoge/Problem_Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/fudoge/Problem_Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/fudoge/Problem_Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/fudoge/Problem_Solving/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/fudoge/Problem_Solving/tree/master/2755-extra-characters-in-a-string) |
@@ -549,6 +552,7 @@
 | [1923-sentence-similarity-iii](https://github.com/fudoge/Problem_Solving/tree/master/1923-sentence-similarity-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fudoge/Problem_Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/fudoge/Problem_Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3195-separate-black-and-white-balls](https://github.com/fudoge/Problem_Solving/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -579,6 +583,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fudoge/Problem_Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/fudoge/Problem_Solving/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/fudoge/Problem_Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2846-robot-collisions](https://github.com/fudoge/Problem_Solving/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/fudoge/Problem_Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/fudoge/Problem_Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -751,6 +756,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/fudoge/Problem_Solving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/fudoge/Problem_Solving/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/fudoge/Problem_Solving/tree/master/2472-build-a-matrix-with-conditions) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -766,6 +772,7 @@
 | [1325-path-with-maximum-probability](https://github.com/fudoge/Problem_Solving/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/fudoge/Problem_Solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fudoge/Problem_Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/fudoge/Problem_Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/fudoge/Problem_Solving/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
