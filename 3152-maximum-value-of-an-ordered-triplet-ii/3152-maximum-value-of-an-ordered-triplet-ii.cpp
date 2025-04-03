@@ -1,3 +1,4 @@
+#pragma GCC optimize("O3", "unroll-loops");
 auto init = []() {
     ios_base::sync_with_stdio(0);
     cin.tie(0);
