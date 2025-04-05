@@ -486,6 +486,7 @@
 | [1803-average-waiting-time](https://github.com/fudoge/Problem_Solving/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/fudoge/Problem_Solving/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/fudoge/Problem_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/fudoge/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/fudoge/Problem_Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/fudoge/Problem_Solving/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/fudoge/Problem_Solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -659,6 +660,7 @@
 | [1240-stone-game-ii](https://github.com/fudoge/Problem_Solving/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/fudoge/Problem_Solving/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/fudoge/Problem_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/fudoge/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/fudoge/Problem_Solving/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/fudoge/Problem_Solving/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -864,6 +866,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/fudoge/Problem_Solving/tree/master/0040-combination-sum-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/fudoge/Problem_Solving/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/fudoge/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/fudoge/Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
 |  |
@@ -885,6 +888,7 @@
 | [0476-number-complement](https://github.com/fudoge/Problem_Solving/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/fudoge/Problem_Solving/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/fudoge/Problem_Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/fudoge/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/fudoge/Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/fudoge/Problem_Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/fudoge/Problem_Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -949,9 +953,14 @@
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/fudoge/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/fudoge/Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Database
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/fudoge/Problem_Solving/tree/master/1908-recyclable-and-low-fat-products) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/fudoge/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
