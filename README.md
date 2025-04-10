@@ -670,6 +670,7 @@
 | [2645-pass-the-pillow](https://github.com/fudoge/Problem_Solving/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/fudoge/Problem_Solving/tree/master/3001-apply-operations-to-maximize-score) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/fudoge/Problem_Solving/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -718,6 +719,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/fudoge/Problem_Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/fudoge/Problem_Solving/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/fudoge/Problem_Solving/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/fudoge/Problem_Solving/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/fudoge/Problem_Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/fudoge/Problem_Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Stack
@@ -834,6 +836,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/fudoge/Problem_Solving/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/fudoge/Problem_Solving/tree/master/2262-solving-questions-with-brainpower) |
 | [2755-extra-characters-in-a-string](https://github.com/fudoge/Problem_Solving/tree/master/2755-extra-characters-in-a-string) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/fudoge/Problem_Solving/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Shortest Path
 |  |
 | ------- |
