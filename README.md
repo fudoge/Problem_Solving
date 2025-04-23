@@ -545,6 +545,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/fudoge/Problem_Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/fudoge/Problem_Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/fudoge/Problem_Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1500-count-largest-group](https://github.com/fudoge/Problem_Solving/tree/master/1500-count-largest-group) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/fudoge/Problem_Solving/tree/master/1694-make-sum-divisible-by-p) |
@@ -679,6 +680,7 @@
 | [0797-rabbits-in-forest](https://github.com/fudoge/Problem_Solving/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/fudoge/Problem_Solving/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/fudoge/Problem_Solving/tree/master/1240-stone-game-ii) |
+| [1500-count-largest-group](https://github.com/fudoge/Problem_Solving/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/fudoge/Problem_Solving/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/fudoge/Problem_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fudoge/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
