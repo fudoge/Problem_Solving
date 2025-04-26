@@ -509,6 +509,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/fudoge/Problem_Solving/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/fudoge/Problem_Solving/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/fudoge/Problem_Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/fudoge/Problem_Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/fudoge/Problem_Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -709,6 +710,7 @@
 | ------- |
 | [0859-design-circular-deque](https://github.com/fudoge/Problem_Solving/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/fudoge/Problem_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## String
 |  |
 | ------- |
@@ -986,6 +988,7 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/fudoge/Problem_Solving/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fudoge/Problem_Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/fudoge/Problem_Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -1010,4 +1013,8 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fudoge/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/fudoge/Problem_Solving/tree/master/3548-find-the-count-of-good-integers) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
