@@ -1,32 +1,19 @@
-#pragma GCC optimize("03", "unroll-loops");
-
-static const int __ = [](){
-    ios_base::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 0;
-}();
-
+using ll = long long;
+using pii = pair<int, int>;
 class Solution {
-public:
-    long long countSubarrays(vector<int>& nums, int minK, int maxK) {
-        long long ans = 0;
-        int invalid_idx = -1, min_idx = -1, max_idx = -1;
+   public:
+    long long countSubarrays(vector<int> &nums, int minK, int maxK) {
+        ll ans = 0;
+        int n = nums.size();
+        int lastMinK = -1, lastMaxK = -1, lastInvalid = -1;
 
-        for (int i = 0; i < nums.size(); ++i) {
-            if (!(minK <= nums[i] && nums[i] <= maxK)) {
-                invalid_idx = i;
-            }
+        for (int i = 0; i < n; i++) {
+            if(nums[i] < minK || nums[i] > maxK) lastInvalid = i;
+            if(nums[i] == minK) lastMinK = i;
+            if(nums[i] == maxK) lastMaxK = i;
 
-            if (nums[i] == minK) {
-                min_idx = i;
-            }
-
-            if (nums[i] == maxK) {
-                max_idx = i;
-            }
-
-            ans += max(0, min(min_idx, max_idx) - invalid_idx);
+            int validStart = min(lastMinK, lastMaxK);
+            if(validStart > lastInvalid) ans += validStart - lastInvalid;
         }
 
         return ans;
