@@ -524,6 +524,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/fudoge/Problem_Solving/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/fudoge/Problem_Solving/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/fudoge/Problem_Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/fudoge/Problem_Solving/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/fudoge/Problem_Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/fudoge/Problem_Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -993,6 +994,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/fudoge/Problem_Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/fudoge/Problem_Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Monotonic Stack
 |  |
 | ------- |
