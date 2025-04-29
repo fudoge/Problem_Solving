@@ -1,45 +1,33 @@
-#pragma GCC optimize("03", "unroll-loops");
-
-static const int __ = [](){
+#pragma GCC optimize("O3", "unroll-loops");
+static const int init = [](){
     ios_base::sync_with_stdio(0);
     cin.tie(0);
-    cout.tie(0);
     return 0;
 }();
 
 class Solution {
 public:
     long long countSubarrays(vector<int>& nums, int k) {
-        const int n = nums.size();
+        int n = nums.size();
+        int M = *max_element(nums.begin(), nums.end());
+        
+        int left = 0;
+        int cnt = 0;
         long long ans = 0;
-        int maxNum = *max_element(nums.begin(), nums.end());
-        int freq = 0;
-        int limit = 0;
-        int right = 0;
-
-        while(right < n) {
-            if(nums[right] == maxNum) freq++;
-            if(freq == k) break;
-            right++;
-        }
-
-        if(freq < k) return 0;
-
-        while(right < n) {
-            bool found = false;
-            if(nums[right] == maxNum) {
-                found = true;
+        for(int right = 0; right < n; right++) {
+            if(nums[right] == M) {
+                cnt++;
             }
 
-            if(found) {
-                while(limit < right && nums[limit] != maxNum) {
-                    limit++;
+            if(cnt == k) {
+                while(left < right && nums[left] != M) {
+                    left++;
                 }
-                limit++;
+                left++;
+                cnt--;
+                // cout << left << " " << right << "\n";
             }
-
-            ans += limit;
-            right++;   
+            ans += left;
         }
 
         return ans;
