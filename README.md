@@ -472,6 +472,7 @@
 | [1293-three-consecutive-odds](https://github.com/fudoge/Problem_Solving/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/fudoge/Problem_Solving/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/fudoge/Problem_Solving/tree/master/1333-sort-the-jumbled-numbers) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/fudoge/Problem_Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/fudoge/Problem_Solving/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/fudoge/Problem_Solving/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/fudoge/Problem_Solving/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -687,6 +688,7 @@
 | [0797-rabbits-in-forest](https://github.com/fudoge/Problem_Solving/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/fudoge/Problem_Solving/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/fudoge/Problem_Solving/tree/master/1240-stone-game-ii) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/fudoge/Problem_Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/fudoge/Problem_Solving/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/fudoge/Problem_Solving/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/fudoge/Problem_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
