@@ -579,6 +579,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/fudoge/Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/fudoge/Problem_Solving/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/fudoge/Problem_Solving/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0868-push-dominoes](https://github.com/fudoge/Problem_Solving/tree/master/0868-push-dominoes) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/fudoge/Problem_Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/fudoge/Problem_Solving/tree/master/1923-sentence-similarity-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fudoge/Problem_Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -729,6 +730,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/fudoge/Problem_Solving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/fudoge/Problem_Solving/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/fudoge/Problem_Solving/tree/master/0726-number-of-atoms) |
+| [0868-push-dominoes](https://github.com/fudoge/Problem_Solving/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/fudoge/Problem_Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/fudoge/Problem_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/fudoge/Problem_Solving/tree/master/1197-parsing-a-boolean-expression) |
@@ -862,6 +864,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/fudoge/Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/fudoge/Problem_Solving/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/fudoge/Problem_Solving/tree/master/0664-strange-printer) |
+| [0868-push-dominoes](https://github.com/fudoge/Problem_Solving/tree/master/0868-push-dominoes) |
 | [1196-filling-bookcase-shelves](https://github.com/fudoge/Problem_Solving/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/fudoge/Problem_Solving/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/fudoge/Problem_Solving/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
