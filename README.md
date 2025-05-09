@@ -705,6 +705,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/fudoge/Problem_Solving/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/fudoge/Problem_Solving/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/fudoge/Problem_Solving/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/fudoge/Problem_Solving/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
 | ------- |
@@ -760,6 +761,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/fudoge/Problem_Solving/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/fudoge/Problem_Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/fudoge/Problem_Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3637-count-number-of-balanced-permutations](https://github.com/fudoge/Problem_Solving/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
 | ------- |
@@ -882,6 +884,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/fudoge/Problem_Solving/tree/master/2262-solving-questions-with-brainpower) |
 | [2755-extra-characters-in-a-string](https://github.com/fudoge/Problem_Solving/tree/master/2755-extra-characters-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/fudoge/Problem_Solving/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/fudoge/Problem_Solving/tree/master/3637-count-number-of-balanced-permutations) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1031,6 +1034,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fudoge/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/fudoge/Problem_Solving/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/fudoge/Problem_Solving/tree/master/3637-count-number-of-balanced-permutations) |
 ## Monotonic Queue
 |  |
 | ------- |
