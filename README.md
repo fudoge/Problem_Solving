@@ -892,6 +892,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/fudoge/Problem_Solving/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/fudoge/Problem_Solving/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/fudoge/Problem_Solving/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/fudoge/Problem_Solving/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/fudoge/Problem_Solving/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/fudoge/Problem_Solving/tree/master/2262-solving-questions-with-brainpower) |
 | [2755-extra-characters-in-a-string](https://github.com/fudoge/Problem_Solving/tree/master/2755-extra-characters-in-a-string) |
