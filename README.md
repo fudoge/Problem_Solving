@@ -450,6 +450,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/fudoge/Problem_Solving/tree/master/0040-combination-sum-ii) |
+| [0073-set-matrix-zeroes](https://github.com/fudoge/Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/fudoge/Problem_Solving/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/fudoge/Problem_Solving/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/fudoge/Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -543,6 +544,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/fudoge/Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/fudoge/Problem_Solving/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/fudoge/Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/fudoge/Problem_Solving/tree/master/0432-all-oone-data-structure) |
@@ -823,6 +825,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/fudoge/Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0870-magic-squares-in-grid](https://github.com/fudoge/Problem_Solving/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/fudoge/Problem_Solving/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/fudoge/Problem_Solving/tree/master/0999-regions-cut-by-slashes) |
