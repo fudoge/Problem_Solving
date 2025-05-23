@@ -533,6 +533,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/fudoge/Problem_Solving/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/fudoge/Problem_Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/fudoge/Problem_Solving/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/fudoge/Problem_Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/fudoge/Problem_Solving/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/fudoge/Problem_Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/fudoge/Problem_Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -640,6 +641,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/fudoge/Problem_Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/fudoge/Problem_Solving/tree/master/3001-apply-operations-to-maximize-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/fudoge/Problem_Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/fudoge/Problem_Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/fudoge/Problem_Solving/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
@@ -661,6 +663,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/fudoge/Problem_Solving/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/fudoge/Problem_Solving/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/fudoge/Problem_Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/fudoge/Problem_Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Linked List
 |  |
 | ------- |
@@ -809,6 +812,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/fudoge/Problem_Solving/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/fudoge/Problem_Solving/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/fudoge/Problem_Solving/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/fudoge/Problem_Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
@@ -903,6 +907,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/fudoge/Problem_Solving/tree/master/2262-solving-questions-with-brainpower) |
 | [2755-extra-characters-in-a-string](https://github.com/fudoge/Problem_Solving/tree/master/2755-extra-characters-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/fudoge/Problem_Solving/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/fudoge/Problem_Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fudoge/Problem_Solving/tree/master/3637-count-number-of-balanced-permutations) |
 ## Shortest Path
@@ -974,6 +979,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/fudoge/Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/fudoge/Problem_Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/fudoge/Problem_Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/fudoge/Problem_Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Number Theory
 |  |
 | ------- |
