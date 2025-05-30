@@ -14,20 +14,18 @@ int main(int argc, char *argv[]) {
     }
 
     int ans = 0;
-    vector<int> hist(n, 0);
+    vector<int> hist(n + 1, 0);
     for (int i = 0; i < m; i++) {
-        for (int j = 0; j < n; j++) {
-            if (mat[i][j] == 0) {
-                hist[j]++;
-            } else {
-                hist[j] = 0;
-            }
-        }
         stack<int> stk;
-        auto hhist = hist;
-        hhist.emplace_back(0);
         for (int j = 0; j <= n; j++) {
-            while (!stk.empty() && hhist[stk.top()] > hhist[j]) {
+            if (j < n) {
+                if (mat[i][j] == 0) {
+                    hist[j]++;
+                } else {
+                    hist[j] = 0;
+                }
+            }
+            while (!stk.empty() && hist[stk.top()] > hist[j]) {
                 int h = hist[stk.top()];
                 stk.pop();
                 int w = stk.empty() ? j : j - stk.top() - 1;
