@@ -445,6 +445,7 @@
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/fudoge/Problem_Solving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/fudoge/Problem_Solving/tree/master/0999-regions-cut-by-slashes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/fudoge/Problem_Solving/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/fudoge/Problem_Solving/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/fudoge/Problem_Solving/tree/master/2035-count-sub-islands) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -759,6 +760,7 @@
 | [0868-push-dominoes](https://github.com/fudoge/Problem_Solving/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/fudoge/Problem_Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/fudoge/Problem_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/fudoge/Problem_Solving/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/fudoge/Problem_Solving/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/fudoge/Problem_Solving/tree/master/1304-longest-happy-string) |
