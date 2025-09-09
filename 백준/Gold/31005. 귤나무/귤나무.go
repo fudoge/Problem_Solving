@@ -23,12 +23,12 @@ func main() {
 	}
 
 	for {
-		pref := make([]int64, len(curr)+1)
-		for i := 1; i <= len(curr); i++ {
-			pref[i] = pref[i-1] + curr[i-1]
+		sum := int64(0)
+		for i := 0; i < len(curr); i++ {
+			sum += curr[i]
 		}
 
-		m = m % pref[len(curr)]
+		m = m % sum
 
 		next := make([]int64, 0)
 		for _, a := range curr {
