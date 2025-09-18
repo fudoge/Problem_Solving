@@ -21,10 +21,7 @@ int main(int argc, char *argv[]) {
         ll right = a[i] * (n - i);
         ll productivity = left + right;
 
-        ll div = k / (productivity);
-        ll rem = k % productivity;
-
-        ll time = div + (rem > 0 ? 1 : 0);
+        ll time = (k - 1 + productivity) / productivity;
         if (time < ans) {
             ans = time;
         }
