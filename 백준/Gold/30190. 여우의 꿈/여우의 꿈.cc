@@ -27,9 +27,6 @@ int main(int argc, char* argv[]) {
     vector<int> a(n);
     for (auto& i : a) cin >> i;
 
-    vector<int> state(3);
-    state[k - 1] = n;
-
     ll ans = 0;
     for (int i = n - 1; i >= 0; i--) {
         int src = k;
