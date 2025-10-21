@@ -552,6 +552,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/fudoge/Problem_Solving/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/fudoge/Problem_Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/fudoge/Problem_Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/fudoge/Problem_Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/fudoge/Problem_Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/fudoge/Problem_Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -636,6 +637,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/fudoge/Problem_Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/fudoge/Problem_Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/fudoge/Problem_Solving/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -670,6 +672,7 @@
 | [3321-type-of-triangle](https://github.com/fudoge/Problem_Solving/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/fudoge/Problem_Solving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/fudoge/Problem_Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1013,6 +1016,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/fudoge/Problem_Solving/tree/master/2249-count-the-hidden-sequences) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fudoge/Problem_Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2915-count-of-interesting-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/2915-count-of-interesting-subarrays) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fudoge/Problem_Solving/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Game Theory
 |  |
@@ -1088,6 +1092,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/fudoge/Problem_Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/fudoge/Problem_Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
