@@ -737,6 +737,7 @@
 | [2645-pass-the-pillow](https://github.com/fudoge/Problem_Solving/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/fudoge/Problem_Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/fudoge/Problem_Solving/tree/master/2846-robot-collisions) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fudoge/Problem_Solving/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
@@ -770,6 +771,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/fudoge/Problem_Solving/tree/master/3548-find-the-count-of-good-integers) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fudoge/Problem_Solving/tree/master/3637-count-number-of-balanced-permutations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -833,6 +835,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fudoge/Problem_Solving/tree/master/3637-count-number-of-balanced-permutations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/fudoge/Problem_Solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -1042,6 +1045,7 @@
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/fudoge/Problem_Solving/tree/master/3001-apply-operations-to-maximize-score) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1122,6 +1126,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fudoge/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/fudoge/Problem_Solving/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fudoge/Problem_Solving/tree/master/3637-count-number-of-balanced-permutations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Queue
 |  |
 | ------- |
