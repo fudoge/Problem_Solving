@@ -1,17 +1,18 @@
 class Solution {
-public:
+   public:
     int totalMoney(int n) {
-        int sum = 0;
-        int week = 1;
-        int weekday = 0;
-        for(int i = 0; i < n; i++, weekday++) {
-            if(weekday >= 7) {
-                week++;
-                weekday %=7;
+        int ans = 0;
+        int cycle = 0;
+        int day = 0;
+        for (int i = 0; i < n; i++) {
+            ans += cycle + (day + 1);
+            day++;
+            if (day == 7) {
+                day = 0;
+                cycle++;
             }
-            sum += week + weekday;
         }
 
-        return sum;
+        return ans;
     }
 };
