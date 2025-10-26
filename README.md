@@ -510,6 +510,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/fudoge/Problem_Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-find-missing-observations](https://github.com/fudoge/Problem_Solving/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2169-simple-bank-system](https://github.com/fudoge/Problem_Solving/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/fudoge/Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/fudoge/Problem_Solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/fudoge/Problem_Solving/tree/master/2249-count-the-hidden-sequences) |
@@ -588,6 +589,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/fudoge/Problem_Solving/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/fudoge/Problem_Solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2169-simple-bank-system](https://github.com/fudoge/Problem_Solving/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/fudoge/Problem_Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/fudoge/Problem_Solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/fudoge/Problem_Solving/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -732,6 +734,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/fudoge/Problem_Solving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fudoge/Problem_Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/fudoge/Problem_Solving/tree/master/2155-find-missing-observations) |
+| [2169-simple-bank-system](https://github.com/fudoge/Problem_Solving/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/fudoge/Problem_Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/fudoge/Problem_Solving/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/fudoge/Problem_Solving/tree/master/2411-spiral-matrix-iv) |
@@ -999,6 +1002,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/fudoge/Problem_Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/fudoge/Problem_Solving/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/fudoge/Problem_Solving/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2169-simple-bank-system](https://github.com/fudoge/Problem_Solving/tree/master/2169-simple-bank-system) |
 ## Binary Search Tree
 |  |
 | ------- |
