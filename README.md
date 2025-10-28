@@ -551,6 +551,7 @@
 | [3321-type-of-triangle](https://github.com/fudoge/Problem_Solving/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/fudoge/Problem_Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/fudoge/Problem_Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/fudoge/Problem_Solving/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/fudoge/Problem_Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/fudoge/Problem_Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -742,6 +743,7 @@
 | [2645-pass-the-pillow](https://github.com/fudoge/Problem_Solving/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/fudoge/Problem_Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/fudoge/Problem_Solving/tree/master/2846-robot-collisions) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fudoge/Problem_Solving/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
@@ -1035,6 +1037,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/fudoge/Problem_Solving/tree/master/2249-count-the-hidden-sequences) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fudoge/Problem_Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2915-count-of-interesting-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/2915-count-of-interesting-subarrays) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fudoge/Problem_Solving/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
