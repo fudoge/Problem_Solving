@@ -552,6 +552,7 @@
 | [3321-type-of-triangle](https://github.com/fudoge/Problem_Solving/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/fudoge/Problem_Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/fudoge/Problem_Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fudoge/Problem_Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/fudoge/Problem_Solving/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/fudoge/Problem_Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -609,6 +610,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/fudoge/Problem_Solving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/fudoge/Problem_Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/fudoge/Problem_Solving/tree/master/3548-find-the-count-of-good-integers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fudoge/Problem_Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/fudoge/Problem_Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/fudoge/Problem_Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -781,6 +783,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/fudoge/Problem_Solving/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/fudoge/Problem_Solving/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/fudoge/Problem_Solving/tree/master/3548-find-the-count-of-good-integers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fudoge/Problem_Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fudoge/Problem_Solving/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/fudoge/Problem_Solving/tree/master/3676-smallest-number-with-all-set-bits) |
