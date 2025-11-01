@@ -6,31 +6,24 @@
  * }
  */
 func modifiedList(nums []int, head *ListNode) *ListNode {
-    m := make(map[int]bool)
-    for _, v := range nums {
-        m[v] = true
-    }
+	mp := make(map[int]bool)
+	for _, num := range nums {
+		mp[num] = true
+	}
 
-    for head != nil && m[head.Val] {
-        head = head.Next
-    }
+	dummy := &ListNode{Next: head}
+	curr := head
+	prev := dummy
 
-    if head == nil {
-        return nil
-    }
+	for curr != nil {
+		if mp[curr.Val] {
+			prev.Next = curr.Next
+		} else {
+			prev = curr
+		}
+		curr = prev.Next
+	}
 
-    curr := head
-    for curr != nil && curr.Next != nil {
-        if m[curr.Next.Val] {
-            curr.Next = curr.Next.Next
-        } else {
-            curr = curr.Next
-        }
-    }
+	return dummy.Next
 
-    if curr != nil {
-        curr.Next = nil
-    }
-
-    return head
 }
