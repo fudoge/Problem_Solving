@@ -1003,6 +1003,7 @@
 | [1511-count-number-of-teams](https://github.com/fudoge/Problem_Solving/tree/master/1511-count-number-of-teams) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/fudoge/Problem_Solving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/fudoge/Problem_Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/fudoge/Problem_Solving/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/fudoge/Problem_Solving/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/fudoge/Problem_Solving/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/fudoge/Problem_Solving/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -1084,6 +1085,7 @@
 | [0476-number-complement](https://github.com/fudoge/Problem_Solving/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/fudoge/Problem_Solving/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/fudoge/Problem_Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/fudoge/Problem_Solving/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fudoge/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/fudoge/Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/fudoge/Problem_Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -1104,6 +1106,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/0241-different-ways-to-add-parentheses) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/fudoge/Problem_Solving/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Rolling Hash
 |  |
 | ------- |
