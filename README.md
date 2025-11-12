@@ -544,6 +544,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/fudoge/Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/fudoge/Problem_Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/fudoge/Problem_Solving/tree/master/2727-number-of-senior-citizens) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/fudoge/Problem_Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2755-extra-characters-in-a-string](https://github.com/fudoge/Problem_Solving/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/fudoge/Problem_Solving/tree/master/2846-robot-collisions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -800,6 +801,7 @@
 | [2645-pass-the-pillow](https://github.com/fudoge/Problem_Solving/tree/master/2645-pass-the-pillow) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/fudoge/Problem_Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/fudoge/Problem_Solving/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/fudoge/Problem_Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/fudoge/Problem_Solving/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/fudoge/Problem_Solving/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -1101,6 +1103,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/fudoge/Problem_Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/fudoge/Problem_Solving/tree/master/3001-apply-operations-to-maximize-score) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
