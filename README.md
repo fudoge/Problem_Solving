@@ -538,6 +538,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/fudoge/Problem_Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/fudoge/Problem_Solving/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/fudoge/Problem_Solving/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/fudoge/Problem_Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/fudoge/Problem_Solving/tree/master/2681-put-marbles-in-bags) |
@@ -945,6 +946,7 @@
 | [2411-spiral-matrix-iv](https://github.com/fudoge/Problem_Solving/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/fudoge/Problem_Solving/tree/master/2472-build-a-matrix-with-conditions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2625-increment-submatrices-by-one](https://github.com/fudoge/Problem_Solving/tree/master/2625-increment-submatrices-by-one) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/fudoge/Problem_Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/fudoge/Problem_Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Divide and Conquer
@@ -1081,6 +1083,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/fudoge/Problem_Solving/tree/master/2249-count-the-hidden-sequences) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fudoge/Problem_Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/fudoge/Problem_Solving/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/fudoge/Problem_Solving/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/2915-count-of-interesting-subarrays) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
