@@ -600,6 +600,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/fudoge/Problem_Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/fudoge/Problem_Solving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/fudoge/Problem_Solving/tree/master/0999-regions-cut-by-slashes) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/fudoge/Problem_Solving/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/fudoge/Problem_Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/fudoge/Problem_Solving/tree/master/1256-rank-transform-of-an-array) |
@@ -798,6 +799,7 @@
 | [0670-maximum-swap](https://github.com/fudoge/Problem_Solving/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/fudoge/Problem_Solving/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/fudoge/Problem_Solving/tree/master/0870-magic-squares-in-grid) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/fudoge/Problem_Solving/tree/master/1240-stone-game-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/fudoge/Problem_Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/fudoge/Problem_Solving/tree/master/1500-count-largest-group) |
