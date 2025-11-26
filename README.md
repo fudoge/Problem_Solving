@@ -533,6 +533,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/fudoge/Problem_Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/fudoge/Problem_Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/fudoge/Problem_Solving/tree/master/2411-spiral-matrix-iv) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2472-build-a-matrix-with-conditions](https://github.com/fudoge/Problem_Solving/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fudoge/Problem_Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/fudoge/Problem_Solving/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -960,6 +961,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/fudoge/Problem_Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/fudoge/Problem_Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/fudoge/Problem_Solving/tree/master/2411-spiral-matrix-iv) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2472-build-a-matrix-with-conditions](https://github.com/fudoge/Problem_Solving/tree/master/2472-build-a-matrix-with-conditions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/fudoge/Problem_Solving/tree/master/2625-increment-submatrices-by-one) |
@@ -1038,6 +1040,7 @@
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/fudoge/Problem_Solving/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/fudoge/Problem_Solving/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/fudoge/Problem_Solving/tree/master/2262-solving-questions-with-brainpower) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2755-extra-characters-in-a-string](https://github.com/fudoge/Problem_Solving/tree/master/2755-extra-characters-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/fudoge/Problem_Solving/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/fudoge/Problem_Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
