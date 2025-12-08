@@ -7,6 +7,7 @@ public:
                 for(int k = j+1; k <= n; k++) {
                     if(i*i+j*j == k*k) {
                         ans += 2;
+                        break;
                     }
                 }
             }
