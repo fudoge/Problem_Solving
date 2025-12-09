@@ -4,7 +4,9 @@ class Solution {
 public:
     int specialTriplets(vector<int>& nums) {
         int n = nums.size();
-        vector<ll> ltable(200001, 0), rtable(200001, 0);
+        ll ltable[200001], rtable[200001];
+        memset(ltable, 0, sizeof(ltable));
+        memset(rtable, 0, sizeof(rtable));
         for(int num : nums) {
             rtable[num]++;
         }
@@ -14,7 +16,8 @@ public:
         ltable[nums[0]]++;
         for(int j = 1; j < n-1; j++) {
             rtable[nums[j]]--;
-            ans = (ans + ltable[nums[j]*2] * rtable[nums[j]*2]) % MOD;
+            int target = nums[j] * 2;
+            ans = (ans + ltable[target] * rtable[target]) % MOD;
             ltable[nums[j]]++;
         }
 
