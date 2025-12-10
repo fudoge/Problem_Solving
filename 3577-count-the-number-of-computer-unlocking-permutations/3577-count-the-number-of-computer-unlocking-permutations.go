@@ -6,10 +6,10 @@ func countPermutations(complexity []int) int {
     fact[0] = 1
     for i := 1; i < n; i++ {
         minVal = min(complexity[i], minVal)
+        if minVal <= complexity[0] {
+            return 0
+        }
         fact[i] = fact[i-1] * i % MOD
-    }
-    if minVal <= complexity[0] {
-        return 0
     }
     return fact[n-1]
 }
