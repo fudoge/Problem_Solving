@@ -20,6 +20,7 @@ public:
         priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> minHeap; // ts, id
         vector<int> ans(numberOfUsers, 0);
         vector<bool> alive(numberOfUsers, true);
+        int allcnt = 0;
 
         for(int i = 0; i < n;) {
             int ts = stoi(events[i][1]);
@@ -35,9 +36,7 @@ public:
                     alive[uid] = false;
                 } else {
                     if(events[j][2] == "ALL") {
-                        for(int k = 0; k < numberOfUsers; k++) {
-                            ans[k]++;
-                        }
+                        allcnt++;
                     } else if(events[j][2] == "HERE") {
                         for(int k = 0; k < numberOfUsers; k++) {
                             if(alive[k]) ans[k]++;
@@ -55,6 +54,10 @@ public:
             }
 
             i = j;
+        }
+
+        for(int i = 0; i < numberOfUsers; i++) {
+            ans[i] += allcnt;
         }
 
         return ans;
