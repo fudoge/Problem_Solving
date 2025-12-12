@@ -1,3 +1,9 @@
+#pragma GCC optimize("O3", "unroll-loops");
+static const int __ [](){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    return 0;
+}();
 class Solution {
 public:
     vector<int> countMentions(int numberOfUsers, vector<vector<string>>& events) {
@@ -10,20 +16,12 @@ public:
             }
             return aTime < bTime;
         });
-        // for(const auto &e : events) {
-        //     cout << e[0] << " " << e[1] << " " << e[2] << "\n";
-        // }
 
         priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> minHeap; // ts, id
         vector<int> ans(numberOfUsers, 0);
         vector<bool> alive(numberOfUsers, true);
 
         for(int i = 0; i < n;) {
-            // cout << i << "\n";
-            // for(const auto &elem : ans) {
-            //     cout << elem << " ";
-            // }
-            // cout << "\n";
             int ts = stoi(events[i][1]);
             while(!minHeap.empty() && minHeap.top().first <= ts) {
                 alive[minHeap.top().second] = true;
