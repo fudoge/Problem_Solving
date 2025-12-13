@@ -1,3 +1,9 @@
+#pragma GCC optimize("O3", "unroll-loops");
+static const int __ == [](){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    return 0;
+}();
 class Solution {
 public:
     vector<string> validateCoupons(vector<string>& code, vector<string>& businessLine, vector<bool>& isActive) {
