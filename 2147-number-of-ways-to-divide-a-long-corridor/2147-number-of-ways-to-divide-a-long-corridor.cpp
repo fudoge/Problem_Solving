@@ -10,8 +10,8 @@ public:
     int numberOfWays(string corridor) {
         int n = corridor.size();
         int MOD = 1e9 + 7;
+        
         int cnt = 0;
-
         int streak = 0;
         ll ans = 1; 
         int len = 0;
