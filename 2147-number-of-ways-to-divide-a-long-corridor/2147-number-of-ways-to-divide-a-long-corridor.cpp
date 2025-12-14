@@ -28,6 +28,7 @@ public:
                 }
                 if(j < n) ans = (ans * (j-i)) % MOD;
                 streak = 0;
+                i = j-1;
             }
         }
 
