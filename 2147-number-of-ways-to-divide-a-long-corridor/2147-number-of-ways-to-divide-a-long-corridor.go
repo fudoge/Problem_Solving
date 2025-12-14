@@ -18,7 +18,7 @@ func numberOfWays(corridor string) int {
                     ans = (ans * (j-i)) % MOD
                 }
                 streak = 0
-                j = i
+                i = j-1
             }
         }
     }
