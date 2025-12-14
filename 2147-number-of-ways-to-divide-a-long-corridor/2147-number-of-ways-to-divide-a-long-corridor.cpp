@@ -19,16 +19,15 @@ public:
             if(corridor[i] == 'S') {
                 streak++;
                 cnt++;
-            }
-
-            if(streak >= 2) {
-                int j = i+1;
-                while(j < n && corridor[j] == 'P') {
-                    j++;
+                if(streak >= 2) {
+                    int j = i+1;
+                    while(j < n && corridor[j] == 'P') {
+                        j++;
+                    }
+                    if(j < n) ans = (ans * (j-i)) % MOD;
+                    streak = 0;
+                    i = j-1;
                 }
-                if(j < n) ans = (ans * (j-i)) % MOD;
-                streak = 0;
-                i = j-1;
             }
         }
 
