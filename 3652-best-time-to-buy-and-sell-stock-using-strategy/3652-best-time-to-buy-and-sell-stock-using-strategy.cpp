@@ -1,3 +1,9 @@
+#pragma GCC optimize("O3", "unroll-loos");
+static const int __ = [](){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    return 0;
+}();
 using ll = long long;
 class Solution {
 public:
