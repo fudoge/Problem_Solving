@@ -30,9 +30,9 @@ public:
                 unite(parent, meetings[r][0], meetings[r][1]);
             }
 
-            for(int s = find(parent, 0); l < r; ++l) {
-                if(find(parent, meetings[l][0]) != s) parent[meetings[l][0]] = meetings[l][0];
-                if(find(parent, meetings[l][1]) != s) parent[meetings[l][1]] = meetings[l][1];
+            for(; l < r; ++l) {
+                if(find(parent, meetings[l][0]) != 0) parent[meetings[l][0]] = meetings[l][0];
+                if(find(parent, meetings[l][1]) != 0) parent[meetings[l][1]] = meetings[l][1];
             }
         }
 
