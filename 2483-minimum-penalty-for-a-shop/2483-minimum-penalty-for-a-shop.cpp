@@ -22,7 +22,6 @@ public:
             if(dp[i] < dp[ans]) {
                 ans = i;
             }
-            cout << i << " " << dp[i] << "\n";
         }
 
         return ans;
