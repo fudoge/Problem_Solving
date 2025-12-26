@@ -8,24 +8,23 @@ class Solution {
 public:
     int bestClosingTime(string customers) {
         int n = customers.size();
-        int y = 0;
+        int best = 0;
         for(int i = 0; i < n; i++) {
             if(customers[i] == 'Y') {
-                y++;
+                best++;
             }
         } 
-        vector<int> dp(n+1);
-        dp[0] = y;
         
         int ans = 0;
+        int curr = best;
         for(int i = 1; i <= n; i++) {
-            dp[i] = dp[i-1];
             if(customers[i-1] == 'Y') {
-                dp[i]--;
+                curr--;
             } else {
-                dp[i]++;
+                curr++;
             }
-            if(dp[i] < dp[ans]) {
+            if(curr < best) {
+                best = curr;
                 ans = i;
             }
         }
