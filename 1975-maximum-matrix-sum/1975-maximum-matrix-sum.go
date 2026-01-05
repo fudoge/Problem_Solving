@@ -9,8 +9,9 @@ func maxMatrixSum(matrix [][]int) int64 {
             if matrix[i][j] < 0 {
                 cnt++
             }
-            maximumNeg = min(maximumNeg, int(math.Abs(float64(matrix[i][j]))));
-            ans += int64(math.Abs(float64(matrix[i][j])))
+            num := int(math.Abs(float64(matrix[i][j])))
+            maximumNeg = min(maximumNeg, num);
+            ans += int64(num)
         }
     }
 
