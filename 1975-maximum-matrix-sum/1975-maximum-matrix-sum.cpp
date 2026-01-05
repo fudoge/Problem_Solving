@@ -12,7 +12,6 @@ public:
         int maximumNeg = INT_MAX;
         ll ans = 0;
         int cnt = 0;
-        bool existZero = false;
 
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < n; j++) {
@@ -24,7 +23,7 @@ public:
             }
         }
 
-        if(cnt % 2 && !existZero) ans -= 2 * maximumNeg;
+        if(cnt % 2) ans -= 2 * maximumNeg;
         return ans;
     }
 };
