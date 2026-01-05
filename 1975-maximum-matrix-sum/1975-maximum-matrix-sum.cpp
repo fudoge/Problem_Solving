@@ -12,8 +12,6 @@ public:
             for(int j = 0; j < n; j++) {
                 if(matrix[i][j] < 0) {
                     cnt++;
-                } else if(matrix[i][j] == 0) {
-                    existZero = true;
                 }
                 maximumNeg = min(maximumNeg, abs(matrix[i][j]));
                 ans += abs(matrix[i][j]);
