@@ -6,42 +6,36 @@ static const int __ = [](){
 }();
 class Solution {
 public:
+    int check(vector<vector<int>>& pref, int len, int threshold) {
+        for(int i = len; i < pref.size(); i++) {
+            for(int j = len; j < pref[0].size(); j++) {
+                int sum = pref[i][j] - pref[i-len][j] - pref[i][j-len] + pref[i-len][j-len];
+                if(sum <= threshold) return true;
+            }
+        }
+
+        return false;
+    }
     int maxSideLength(vector<vector<int>>& mat, int threshold) {
         int m = mat.size();
         int n = mat[0].size();
-        vector<vector<int>> dp(m, vector<int>(n));
+        vector<vector<int>> pref(m+1, vector<int>(n+1));
 
-        dp[0][0] = mat[0][0];
-        for(int i = 1; i < m; i++) {
-            dp[i][0] = dp[i-1][0] + mat[i][0];
-        }
-        for(int j = 1; j < n; j++) {
-            dp[0][j] = dp[0][j-1] + mat[0][j];
-        }
-        for(int i = 1; i < m; i++) {
-            for(int j = 1; j < n; j++) {
-                dp[i][j] = mat[i][j] +  dp[i-1][j] + dp[i][j-1] - dp[i-1][j-1];
+        for(int i = 1; i <= m; i++) {
+            for(int j = 1; j <= n; j++) {
+                pref[i][j] = mat[i-1][j-1] + pref[i-1][j] + pref[i][j-1] - pref[i-1][j-1];
             }
         }
         int ans = 0;
-        for(int i = 0; i < m; i++) {
-            for(int j = 0; j < n; j++) {
-                int limit = min(i, j) + 1;
-                for(int k = ans+1; k <= limit; k++) {
-                    int sum = dp[i][j];
-                    if(i-k >= 0 && j-k >= 0) {
-                        sum -= dp[i-k][j];
-                        sum -= dp[i][j-k];
-                        sum += dp[i-k][j-k];
-                    } else if(i-k >= 0) {
-                        sum -= dp[i-k][j];
-                    } else if(j-k >= 0) {
-                        sum -= dp[i][j-k];
-                    }
-                    if(sum <= threshold) {
-                        ans = k;
-                    }
-                }
+        int lo = 0;
+        int hi = min(n, m);
+        while(lo <= hi) {
+            int mid = (lo + hi) >> 1;
+            if(check(pref, mid, threshold)) {
+                ans = mid; 
+                lo = mid+1;
+            } else {
+                hi = mid-1;
             }
         }
         return ans;
