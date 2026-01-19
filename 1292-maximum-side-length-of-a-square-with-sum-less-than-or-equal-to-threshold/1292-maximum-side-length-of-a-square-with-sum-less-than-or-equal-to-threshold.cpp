@@ -27,7 +27,7 @@ public:
             }
         }
         int ans = 0;
-        int lo = 0;
+        int lo = 1;
         int hi = min(n, m);
         while(lo <= hi) {
             int mid = (lo + hi) >> 1;
