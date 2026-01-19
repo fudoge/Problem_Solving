@@ -26,7 +26,7 @@ impl Solution {
         let mut lo = 1usize;
         let mut hi = m.min(n);
         while lo <= hi {
-            let mut mid = (lo + hi) >> 1;
+            let mid = (lo + hi) >> 1;
             if Self::check(&pref, mid, threshold) {
                 ans = mid as i32;
                 lo = mid+1;
