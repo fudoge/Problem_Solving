@@ -29,14 +29,14 @@ public:
                 int limit = min(i, j) + 1;
                 for(int k = ans+1; k <= limit; k++) {
                     int sum = dp[i][j];
-                    if(i-k >= 0) {
-                        sum -= dp[i-k][j];
-                    }
-                    if(j-k >= 0) {
-                        sum -= dp[i][j-k];
-                    }
                     if(i-k >= 0 && j-k >= 0) {
+                        sum -= dp[i-k][j];
+                        sum -= dp[i][j-k];
                         sum += dp[i-k][j-k];
+                    } else if(i-k >= 0) {
+                        sum -= dp[i-k][j];
+                    } else if(j-k >= 0) {
+                        sum -= dp[i][j-k];
                     }
                     if(sum <= threshold) {
                         ans = k;
