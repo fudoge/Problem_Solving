@@ -17,12 +17,16 @@ public:
                 continue;
             }
             
+            // general case:: find first zero
             int cnt = 0;
             while(x > 0) {
                 if((x & 1) == 0) break;
                 x >>= 1;
                 cnt++;
             }
+
+            // recovery: ans[i]     =  <prefix>011...11
+            //           ans[i] + 1 =  <prefix>100...00
             x <<= 1;
             for(int i = 0; i < cnt-1; i++) {
                 x <<= 1;
