@@ -16,23 +16,23 @@ public:
             adj[v].push_back({u, 2*w});
         }       
 
-        queue<pair<int, int>> q;
-        q.emplace(0, 0);
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> pq;
+        pq.emplace(0, 0);
         vector<int> dist(n, INT_MAX);
         dist[0] = 0;
 
-        while(!q.empty()) {
-            auto curr = q.front();
-            q.pop();
-            int currNode = curr.first;
-            int currDist = curr.second;
+        while(!pq.empty()) {
+            auto curr = pq.top();
+            pq.pop();
+            int currDist = curr.first;
+            int currNode = curr.second;
             if(currDist > dist[currNode]) continue;
             for(auto next : adj[currNode]) {
                 int nextDist = currDist + next[1];
                 int nextNode = next[0];
                 if(nextDist < dist[nextNode]) {
                     dist[nextNode] = nextDist;
-                    q.emplace(nextNode, nextDist);
+                    pq.emplace(nextDist, nextNode);
                 }
             }
         }
