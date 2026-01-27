@@ -28,7 +28,7 @@ public:
             int currDist = curr.first;
             int currNode = curr.second;
             if(currDist > dist[currNode]) continue;
-            for(auto next : adj[currNode]) {
+            for(const auto& next : adj[currNode]) {
                 int nextDist = currDist + next.second;
                 int nextNode = next.first;
                 if(nextDist < dist[nextNode]) {
