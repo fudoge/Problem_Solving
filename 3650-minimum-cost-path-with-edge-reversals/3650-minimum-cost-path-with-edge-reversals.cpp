@@ -1,3 +1,9 @@
+#pragma GCC optimize("O3", "unroll-loops");
+static const int __ = [](){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    return 0;
+}();
 class Solution {
 public:
     int minCost(int n, vector<vector<int>>& edges) {
