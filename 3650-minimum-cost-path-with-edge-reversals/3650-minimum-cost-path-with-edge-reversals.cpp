@@ -4,10 +4,11 @@ static const int __ = [](){
     cin.tie(0);
     return 0;
 }();
+using pii = pair<int, int>;
 class Solution {
 public:
     int minCost(int n, vector<vector<int>>& edges) {
-        vector<vector<vector<int>>> adj(n);
+        vector<vector<pii>> adj(n);
         for(const auto &edge : edges) {
             int u = edge[0];
             int v = edge[1];
@@ -16,7 +17,7 @@ public:
             adj[v].push_back({u, 2*w});
         }       
 
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> pq;
+        priority_queue<pii, vector<pii>, greater<>> pq;
         pq.emplace(0, 0);
         vector<int> dist(n, INT_MAX);
         dist[0] = 0;
@@ -28,8 +29,8 @@ public:
             int currNode = curr.second;
             if(currDist > dist[currNode]) continue;
             for(auto next : adj[currNode]) {
-                int nextDist = currDist + next[1];
-                int nextNode = next[0];
+                int nextDist = currDist + next.second;
+                int nextNode = next.first;
                 if(nextDist < dist[nextNode]) {
                     dist[nextNode] = nextDist;
                     pq.emplace(nextDist, nextNode);
