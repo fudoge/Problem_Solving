@@ -1,12 +1,9 @@
 func nextGreatestLetter(letters []byte, target byte) byte {
-    ans := byte('|')
-
-    for _, let := range letters {
-        if let > target {
-            ans = min(ans, let)
-        }
+    idx := sort.Search(len(letters), func(i int) bool {
+        return byte(letters[i]) > target
+    })
+    if idx == len(letters) {
+        return letters[0]
     }
-
-    if ans == '|' { return letters[0] }
-    return ans
+    return letters[idx]
 }
