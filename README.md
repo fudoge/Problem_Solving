@@ -389,8 +389,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/fudoge/Problem_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/fudoge/Problem_Solving/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/fudoge/Problem_Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -410,8 +410,8 @@
 | [2872-maximum-number-of-k-divisible-components](https://github.com/fudoge/Problem_Solving/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/fudoge/Problem_Solving/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/fudoge/Problem_Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0999-regions-cut-by-slashes](https://github.com/fudoge/Problem_Solving/tree/master/0999-regions-cut-by-slashes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/fudoge/Problem_Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -426,8 +426,8 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/fudoge/Problem_Solving/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3863-power-grid-maintenance](https://github.com/fudoge/Problem_Solving/tree/master/3863-power-grid-maintenance) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/fudoge/Problem_Solving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/fudoge/Problem_Solving/tree/master/1325-path-with-maximum-probability) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/fudoge/Problem_Solving/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -442,13 +442,13 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/fudoge/Problem_Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3863-power-grid-maintenance](https://github.com/fudoge/Problem_Solving/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/fudoge/Problem_Solving/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/fudoge/Problem_Solving/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/fudoge/Problem_Solving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/fudoge/Problem_Solving/tree/master/0999-regions-cut-by-slashes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/fudoge/Problem_Solving/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -457,8 +457,8 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3863-power-grid-maintenance](https://github.com/fudoge/Problem_Solving/tree/master/3863-power-grid-maintenance) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/fudoge/Problem_Solving/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/fudoge/Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/fudoge/Problem_Solving/tree/master/0075-sort-colors) |
@@ -592,8 +592,8 @@
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/fudoge/Problem_Solving/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/fudoge/Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/fudoge/Problem_Solving/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/fudoge/Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -651,8 +651,8 @@
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/fudoge/Problem_Solving/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/fudoge/Problem_Solving/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/fudoge/Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/fudoge/Problem_Solving/tree/master/0567-permutation-in-string) |
@@ -667,8 +667,8 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/fudoge/Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/fudoge/Problem_Solving/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/fudoge/Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/fudoge/Problem_Solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/fudoge/Problem_Solving/tree/master/0729-my-calendar-i) |
@@ -686,8 +686,8 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/fudoge/Problem_Solving/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/fudoge/Problem_Solving/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/fudoge/Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -725,8 +725,8 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0179-largest-number](https://github.com/fudoge/Problem_Solving/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fudoge/Problem_Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/fudoge/Problem_Solving/tree/master/0670-maximum-swap) |
@@ -760,8 +760,8 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/fudoge/Problem_Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0432-all-oone-data-structure](https://github.com/fudoge/Problem_Solving/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/fudoge/Problem_Solving/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/fudoge/Problem_Solving/tree/master/0859-design-circular-deque) |
@@ -772,11 +772,12 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/fudoge/Problem_Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/fudoge/Problem_Solving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/fudoge/Problem_Solving/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/fudoge/Problem_Solving/tree/master/0921-spiral-matrix-iii) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/fudoge/Problem_Solving/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1642-water-bottles](https://github.com/fudoge/Problem_Solving/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/fudoge/Problem_Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/fudoge/Problem_Solving/tree/master/1803-average-waiting-time) |
@@ -800,8 +801,8 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fudoge/Problem_Solving/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/fudoge/Problem_Solving/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/fudoge/Problem_Solving/tree/master/0273-integer-to-english-words) |
@@ -845,24 +846,25 @@
 | [3676-smallest-number-with-all-set-bits](https://github.com/fudoge/Problem_Solving/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/fudoge/Problem_Solving/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/fudoge/Problem_Solving/tree/master/1197-parsing-a-boolean-expression) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/fudoge/Problem_Solving/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/fudoge/Problem_Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/fudoge/Problem_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/fudoge/Problem_Solving/tree/master/2050-count-good-numbers) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0859-design-circular-deque](https://github.com/fudoge/Problem_Solving/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/fudoge/Problem_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/fudoge/Problem_Solving/tree/master/2618-maximize-the-minimum-powered-city) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0038-count-and-say](https://github.com/fudoge/Problem_Solving/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/fudoge/Problem_Solving/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/fudoge/Problem_Solving/tree/master/0214-shortest-palindrome) |
@@ -882,6 +884,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/fudoge/Problem_Solving/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/fudoge/Problem_Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/fudoge/Problem_Solving/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1636-number-of-substrings-with-only-1s](https://github.com/fudoge/Problem_Solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/fudoge/Problem_Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/fudoge/Problem_Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -914,8 +917,8 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/fudoge/Problem_Solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/fudoge/Problem_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/fudoge/Problem_Solving/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/fudoge/Problem_Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -933,8 +936,8 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/fudoge/Problem_Solving/tree/master/3001-apply-operations-to-maximize-score) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/fudoge/Problem_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/fudoge/Problem_Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/fudoge/Problem_Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -949,8 +952,8 @@
 | [2872-maximum-number-of-k-divisible-components](https://github.com/fudoge/Problem_Solving/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/fudoge/Problem_Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/fudoge/Problem_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/fudoge/Problem_Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/fudoge/Problem_Solving/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -962,8 +965,8 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/fudoge/Problem_Solving/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/fudoge/Problem_Solving/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/fudoge/Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0870-magic-squares-in-grid](https://github.com/fudoge/Problem_Solving/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/fudoge/Problem_Solving/tree/master/0921-spiral-matrix-iii) |
@@ -983,13 +986,13 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/fudoge/Problem_Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/fudoge/Problem_Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0948-sort-an-array](https://github.com/fudoge/Problem_Solving/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/fudoge/Problem_Solving/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fudoge/Problem_Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/fudoge/Problem_Solving/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1008,21 +1011,21 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/fudoge/Problem_Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3863-power-grid-maintenance](https://github.com/fudoge/Problem_Solving/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0948-sort-an-array](https://github.com/fudoge/Problem_Solving/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0948-sort-an-array](https://github.com/fudoge/Problem_Solving/tree/master/0948-sort-an-array) |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0948-sort-an-array](https://github.com/fudoge/Problem_Solving/tree/master/0948-sort-an-array) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/fudoge/Problem_Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/fudoge/Problem_Solving/tree/master/0948-sort-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -1035,8 +1038,8 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/fudoge/Problem_Solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/fudoge/Problem_Solving/tree/master/0264-ugly-number-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/fudoge/Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
@@ -1062,8 +1065,8 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fudoge/Problem_Solving/tree/master/3637-count-number-of-balanced-permutations) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1325-path-with-maximum-probability](https://github.com/fudoge/Problem_Solving/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/fudoge/Problem_Solving/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/fudoge/Problem_Solving/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -1072,17 +1075,17 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/fudoge/Problem_Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/fudoge/Problem_Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1511-count-number-of-teams](https://github.com/fudoge/Problem_Solving/tree/master/1511-count-number-of-teams) |
 | [2280-count-good-triplets-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2280-count-good-triplets-in-an-array) |
 ## Strongly Connected Component
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/fudoge/Problem_Solving/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0432-all-oone-data-structure](https://github.com/fudoge/Problem_Solving/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/fudoge/Problem_Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/fudoge/Problem_Solving/tree/master/0731-my-calendar-ii) |
@@ -1091,24 +1094,24 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/fudoge/Problem_Solving/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2169-simple-bank-system](https://github.com/fudoge/Problem_Solving/tree/master/2169-simple-bank-system) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/fudoge/Problem_Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/fudoge/Problem_Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/fudoge/Problem_Solving/tree/master/0040-combination-sum-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/fudoge/Problem_Solving/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fudoge/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/fudoge/Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/fudoge/Problem_Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/fudoge/Problem_Solving/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/fudoge/Problem_Solving/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/fudoge/Problem_Solving/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1127,12 +1130,12 @@
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fudoge/Problem_Solving/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1240-stone-game-ii](https://github.com/fudoge/Problem_Solving/tree/master/1240-stone-game-ii) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0476-number-complement](https://github.com/fudoge/Problem_Solving/tree/master/0476-number-complement) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/fudoge/Problem_Solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/fudoge/Problem_Solving/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1145,61 +1148,61 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/fudoge/Problem_Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/fudoge/Problem_Solving/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/fudoge/Problem_Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/fudoge/Problem_Solving/tree/master/3001-apply-operations-to-maximize-score) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/fudoge/Problem_Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/fudoge/Problem_Solving/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/fudoge/Problem_Solving/tree/master/0214-shortest-palindrome) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/fudoge/Problem_Solving/tree/master/0214-shortest-palindrome) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/fudoge/Problem_Solving/tree/master/0214-shortest-palindrome) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/fudoge/Problem_Solving/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/fudoge/Problem_Solving/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/fudoge/Problem_Solving/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/fudoge/Problem_Solving/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/fudoge/Problem_Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0729-my-calendar-i](https://github.com/fudoge/Problem_Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/fudoge/Problem_Solving/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0729-my-calendar-i](https://github.com/fudoge/Problem_Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/fudoge/Problem_Solving/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2280-count-good-triplets-in-an-array) |
 | [3863-power-grid-maintenance](https://github.com/fudoge/Problem_Solving/tree/master/3863-power-grid-maintenance) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0432-all-oone-data-structure](https://github.com/fudoge/Problem_Solving/tree/master/0432-all-oone-data-structure) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0567-permutation-in-string](https://github.com/fudoge/Problem_Solving/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fudoge/Problem_Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1213,15 +1216,15 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1002-maximum-width-ramp](https://github.com/fudoge/Problem_Solving/tree/master/1002-maximum-width-ramp) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/fudoge/Problem_Solving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/fudoge/Problem_Solving/tree/master/3001-apply-operations-to-maximize-score) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1656-count-good-triplets](https://github.com/fudoge/Problem_Solving/tree/master/1656-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/fudoge/Problem_Solving/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fudoge/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1230,22 +1233,22 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/fudoge/Problem_Solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/fudoge/Problem_Solving/tree/master/3548-find-the-count-of-good-integers) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/fudoge/Problem_Solving/tree/master/1908-recyclable-and-low-fat-products) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fudoge/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/fudoge/Problem_Solving/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fudoge/Problem_Solving/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3625-count-number-of-trapezoids-ii](https://github.com/fudoge/Problem_Solving/tree/master/3625-count-number-of-trapezoids-ii) |
 <!---LeetCode Topics End-->
