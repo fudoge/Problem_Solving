@@ -497,6 +497,7 @@
 | [1511-count-number-of-teams](https://github.com/fudoge/Problem_Solving/tree/master/1511-count-number-of-teams) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/fudoge/Problem_Solving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/fudoge/Problem_Solving/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/fudoge/Problem_Solving/tree/master/1590-make-sum-divisible-by-p) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/fudoge/Problem_Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/fudoge/Problem_Solving/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -972,6 +973,7 @@
 | [0921-spiral-matrix-iii](https://github.com/fudoge/Problem_Solving/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/fudoge/Problem_Solving/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/fudoge/Problem_Solving/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/fudoge/Problem_Solving/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/fudoge/Problem_Solving/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/fudoge/Problem_Solving/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/fudoge/Problem_Solving/tree/master/2035-count-sub-islands) |
