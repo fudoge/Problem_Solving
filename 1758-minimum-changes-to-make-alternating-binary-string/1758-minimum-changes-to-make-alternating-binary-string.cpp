@@ -12,6 +12,8 @@ public:
         return res;
     }
     int minOperations(string s) {
-        return min(calc(s, 0), calc(s, 1));
+        int ops = calc(s, 0);
+        int n = s.size();
+        return min(ops, n - ops);
     }
 };
