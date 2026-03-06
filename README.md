@@ -894,6 +894,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/fudoge/Problem_Solving/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/fudoge/Problem_Solving/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/fudoge/Problem_Solving/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/fudoge/Problem_Solving/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1818-maximum-score-from-removing-substrings](https://github.com/fudoge/Problem_Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/fudoge/Problem_Solving/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/fudoge/Problem_Solving/tree/master/2076-sum-of-digits-of-string-after-convert) |
