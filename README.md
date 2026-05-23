@@ -510,6 +510,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/fudoge/Problem_Solving/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/fudoge/Problem_Solving/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/fudoge/Problem_Solving/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/fudoge/Problem_Solving/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1803-average-waiting-time](https://github.com/fudoge/Problem_Solving/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/fudoge/Problem_Solving/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/fudoge/Problem_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
