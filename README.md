@@ -639,6 +639,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/fudoge/Problem_Solving/tree/master/2755-extra-characters-in-a-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/2915-count-of-interesting-subarrays) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/fudoge/Problem_Solving/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/fudoge/Problem_Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/fudoge/Problem_Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/fudoge/Problem_Solving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -916,6 +917,7 @@
 | [2727-number-of-senior-citizens](https://github.com/fudoge/Problem_Solving/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/fudoge/Problem_Solving/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/fudoge/Problem_Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/fudoge/Problem_Solving/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3195-separate-black-and-white-balls](https://github.com/fudoge/Problem_Solving/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/fudoge/Problem_Solving/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/fudoge/Problem_Solving/tree/master/3243-count-the-number-of-powerful-integers) |
