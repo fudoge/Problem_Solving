@@ -520,6 +520,7 @@
 | [2035-count-sub-islands](https://github.com/fudoge/Problem_Solving/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/fudoge/Problem_Solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/fudoge/Problem_Solving/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2126-destroying-asteroids](https://github.com/fudoge/Problem_Solving/tree/main/2126-destroying-asteroids/) | Medium |
 | [2132-convert-1d-array-into-2d-array](https://github.com/fudoge/Problem_Solving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fudoge/Problem_Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/fudoge/Problem_Solving/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -713,6 +714,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/fudoge/Problem_Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/fudoge/Problem_Solving/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/fudoge/Problem_Solving/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2126-destroying-asteroids](https://github.com/fudoge/Problem_Solving/tree/main/2126-destroying-asteroids/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/fudoge/Problem_Solving/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/fudoge/Problem_Solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fudoge/Problem_Solving/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -751,6 +753,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/fudoge/Problem_Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/fudoge/Problem_Solving/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/fudoge/Problem_Solving/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2126-destroying-asteroids](https://github.com/fudoge/Problem_Solving/tree/main/2126-destroying-asteroids/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/fudoge/Problem_Solving/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fudoge/Problem_Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/fudoge/Problem_Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
