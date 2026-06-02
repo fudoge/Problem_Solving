@@ -8,16 +8,12 @@ func earliestFinishTime(landStartTime []int, landDuration []int, waterStartTime 
             landFinish := landStartTime[i] + landDuration[i]
             waterFinish := max(landFinish, waterStartTime[j]) + waterDuration[j]
             ans = min(ans, waterFinish)
-        }
-    }    
 
-    for j := 0; j < m; j++ {
-        for i := 0; i < n; i++ {
-            waterFinish := waterStartTime[j] + waterDuration[j]
-            landFinish := max(waterFinish, landStartTime[i]) + landDuration[i]
+            waterFinish = waterStartTime[j] + waterDuration[j]
+            landFinish = max(waterFinish, landStartTime[i]) + landDuration[i]
             ans = min(ans, landFinish)
         }
     }    
-
+    
     return ans
 }
