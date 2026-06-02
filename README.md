@@ -592,6 +592,7 @@
 | [3625-count-number-of-trapezoids-ii](https://github.com/fudoge/Problem_Solving/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/fudoge/Problem_Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/fudoge/Problem_Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fudoge/Problem_Solving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/fudoge/Problem_Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/fudoge/Problem_Solving/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -677,6 +678,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/fudoge/Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/fudoge/Problem_Solving/tree/master/3195-separate-black-and-white-balls) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fudoge/Problem_Solving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -696,6 +698,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fudoge/Problem_Solving/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/fudoge/Problem_Solving/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fudoge/Problem_Solving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -737,6 +740,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/fudoge/Problem_Solving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/fudoge/Problem_Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fudoge/Problem_Solving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -775,6 +779,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/fudoge/Problem_Solving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/fudoge/Problem_Solving/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/fudoge/Problem_Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fudoge/Problem_Solving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 | Problem Name | Difficulty |
