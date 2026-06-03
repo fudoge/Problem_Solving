@@ -10,27 +10,27 @@ func earliestFinishTime(landStartTime []int, landDuration []int, waterStartTime 
     n := len(landStartTime)         
     m := len(waterStartTime)         
 
-    // Sort each rides for starting time
-    landRide := make([]*Item, n)
-    waterRide := make([]*Item, m)
+    // Sort each rides in starting time order
+    landRide := make([]Item, n)
+    waterRide := make([]Item, m)
     for i := 0; i < n; i++ {
-        landRide[i] = &Item{
+        landRide[i] = Item{
             startTime:    landStartTime[i],
             duration:     landDuration[i],
             idealEndTime: landStartTime[i] + landDuration[i],
         }
     }
     for i := 0; i < m; i++ {
-        waterRide[i] = &Item{
+        waterRide[i] = Item{
             startTime:    waterStartTime[i],
             duration:     waterDuration[i],
             idealEndTime: waterStartTime[i] + waterDuration[i],
         }
     }
-    slices.SortFunc(landRide, func(a, b *Item) int {
+    slices.SortFunc(landRide, func(a, b Item) int {
         return cmp.Compare(a.startTime, b.startTime)
     })
-    slices.SortFunc(waterRide, func(a, b *Item) int {
+    slices.SortFunc(waterRide, func(a, b Item) int {
         return cmp.Compare(a.startTime, b.startTime)
     })
 
