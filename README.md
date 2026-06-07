@@ -530,6 +530,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/fudoge/Problem_Solving/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/fudoge/Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/fudoge/Problem_Solving/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-finding-3-digit-even-numbers](https://github.com/fudoge/Problem_Solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/fudoge/Problem_Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/fudoge/Problem_Solving/tree/master/2249-count-the-hidden-sequences) |
@@ -635,6 +636,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/fudoge/Problem_Solving/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/fudoge/Problem_Solving/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/fudoge/Problem_Solving/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-finding-3-digit-even-numbers](https://github.com/fudoge/Problem_Solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fudoge/Problem_Solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/fudoge/Problem_Solving/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -983,6 +985,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/fudoge/Problem_Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/fudoge/Problem_Solving/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/fudoge/Problem_Solving/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/fudoge/Problem_Solving/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/fudoge/Problem_Solving/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/fudoge/Problem_Solving/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/fudoge/Problem_Solving/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -998,6 +1001,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/fudoge/Problem_Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/fudoge/Problem_Solving/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/fudoge/Problem_Solving/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/fudoge/Problem_Solving/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/fudoge/Problem_Solving/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/fudoge/Problem_Solving/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/fudoge/Problem_Solving/tree/master/2677-cousins-in-binary-tree-ii) |
