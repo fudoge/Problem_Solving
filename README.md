@@ -527,6 +527,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/fudoge/Problem_Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/fudoge/Problem_Solving/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2155-find-missing-observations](https://github.com/fudoge/Problem_Solving/tree/master/2155-find-missing-observations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/fudoge/Problem_Solving/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2163-kth-distinct-string-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/fudoge/Problem_Solving/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/fudoge/Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -676,6 +677,7 @@
 | [0868-push-dominoes](https://github.com/fudoge/Problem_Solving/tree/master/0868-push-dominoes) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/fudoge/Problem_Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/fudoge/Problem_Solving/tree/master/1923-sentence-similarity-iii) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/fudoge/Problem_Solving/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/fudoge/Problem_Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fudoge/Problem_Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/fudoge/Problem_Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -817,6 +819,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/fudoge/Problem_Solving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fudoge/Problem_Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/fudoge/Problem_Solving/tree/master/2155-find-missing-observations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/fudoge/Problem_Solving/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2169-simple-bank-system](https://github.com/fudoge/Problem_Solving/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/fudoge/Problem_Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fudoge/Problem_Solving/tree/master/2274-keep-multiplying-found-values-by-two) |
