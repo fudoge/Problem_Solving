@@ -601,6 +601,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/fudoge/Problem_Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/fudoge/Problem_Solving/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/fudoge/Problem_Solving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/fudoge/Problem_Solving/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/fudoge/Problem_Solving/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fudoge/Problem_Solving/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -792,6 +793,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fudoge/Problem_Solving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/fudoge/Problem_Solving/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/fudoge/Problem_Solving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/fudoge/Problem_Solving/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -1057,6 +1059,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/fudoge/Problem_Solving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/fudoge/Problem_Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/fudoge/Problem_Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/fudoge/Problem_Solving/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3863-power-grid-maintenance](https://github.com/fudoge/Problem_Solving/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -1241,6 +1244,7 @@
 | [0729-my-calendar-i](https://github.com/fudoge/Problem_Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/fudoge/Problem_Solving/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2280-count-good-triplets-in-an-array) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/fudoge/Problem_Solving/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
