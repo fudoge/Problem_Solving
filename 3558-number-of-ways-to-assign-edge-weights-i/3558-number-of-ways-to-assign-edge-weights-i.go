@@ -24,7 +24,7 @@ func assignEdgeWeights(edges [][]int) int {
     }
 
     q := make([]int, 0, 1)
-    visited := make(map[int]bool)
+    visited := make([]bool, 100001)
     q = append(q, 1)
     visited[1] = true
     maxDepth := int64(-1)
@@ -35,7 +35,7 @@ func assignEdgeWeights(edges [][]int) int {
             curr := q[0]
             q = q[1:]
             for _, next := range adj[curr] {
-                if v, exists := visited[next]; !v || !exists {
+                if !visited[next] {
                     visited[next] = true
                     q = append(q, next)
                 }
