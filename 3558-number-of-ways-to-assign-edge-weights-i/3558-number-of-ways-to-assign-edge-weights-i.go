@@ -14,7 +14,7 @@ func bpow(base, exp int64) int64 {
 
 func assignEdgeWeights(edges [][]int) int {
 
-    adj := make(map[int][]int)
+    adj := make([][]int, 100001)
     for _, edge := range edges {
         u := edge[0]
         v := edge[1]
