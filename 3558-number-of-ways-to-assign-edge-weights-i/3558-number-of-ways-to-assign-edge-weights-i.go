@@ -14,7 +14,7 @@ func bpow(base, exp int64) int64 {
 
 func assignEdgeWeights(edges [][]int) int {
 
-    adj := make([][]int, 100001)
+    adj := make(map[int][]int)
     for _, edge := range edges {
         u := edge[0]
         v := edge[1]
@@ -24,7 +24,7 @@ func assignEdgeWeights(edges [][]int) int {
     }
 
     q := make([]int, 0, 1)
-    visited := make([]bool, 100001)
+    visited := make(map[int]bool)
     q = append(q, 1)
     visited[1] = true
     maxDepth := int64(-1)
@@ -35,7 +35,7 @@ func assignEdgeWeights(edges [][]int) int {
             curr := q[0]
             q = q[1:]
             for _, next := range adj[curr] {
-                if !visited[next] {
+                if v, exists := visited[next]; !v || !exists {
                     visited[next] = true
                     q = append(q, next)
                 }
