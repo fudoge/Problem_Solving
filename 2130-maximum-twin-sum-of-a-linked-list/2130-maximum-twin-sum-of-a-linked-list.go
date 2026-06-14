@@ -1,0 +1,22 @@
+/**
+ * Definition for singly-linked list.
+ * type ListNode struct {
+ *     Val int
+ *     Next *ListNode
+ * }
+ */
+func pairSum(head *ListNode) int {
+    arr := make([]int, 0)    
+    for head != nil {
+        arr = append(arr, head.Val)
+        head = head.Next
+    }
+
+    ans := 0
+    n := len(arr)
+    for i := 0; i < n/2; i++ {
+        ans = max(ans, arr[i] + arr[n-i-1]) 
+    }
+    
+    return ans
+}
