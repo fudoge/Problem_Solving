@@ -13,12 +13,7 @@ func deleteMiddle(head *ListNode) *ListNode {
     mid := head
     end := head    
 
-    for end.Next != nil {
-        if end.Next.Next == nil {
-            midPrev = mid
-            mid = mid.Next
-            break
-        }
+    for end != nil && end.Next != nil {
         midPrev = mid
         mid = mid.Next
         end = end.Next.Next
