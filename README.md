@@ -683,6 +683,7 @@
 | [0868-push-dominoes](https://github.com/fudoge/Problem_Solving/tree/master/0868-push-dominoes) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/fudoge/Problem_Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/fudoge/Problem_Solving/tree/master/1923-sentence-similarity-iii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/fudoge/Problem_Solving/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/fudoge/Problem_Solving/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/fudoge/Problem_Solving/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/fudoge/Problem_Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -807,6 +808,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/fudoge/Problem_Solving/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/fudoge/Problem_Solving/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/fudoge/Problem_Solving/tree/master/1484-linked-list-in-binary-tree) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/fudoge/Problem_Solving/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/fudoge/Problem_Solving/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/fudoge/Problem_Solving/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/fudoge/Problem_Solving/tree/master/2299-merge-nodes-in-between-zeros) |
