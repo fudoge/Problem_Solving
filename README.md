@@ -843,6 +843,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/fudoge/Problem_Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/fudoge/Problem_Solving/tree/master/2846-robot-collisions) |
 | [3612-process-string-with-special-operations-i](https://github.com/fudoge/Problem_Solving/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/fudoge/Problem_Solving/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3616-make-array-elements-equal-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fudoge/Problem_Solving/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -971,6 +972,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/fudoge/Problem_Solving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/fudoge/Problem_Solving/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3612-process-string-with-special-operations-i](https://github.com/fudoge/Problem_Solving/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/fudoge/Problem_Solving/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fudoge/Problem_Solving/tree/master/3637-count-number-of-balanced-permutations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/fudoge/Problem_Solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
