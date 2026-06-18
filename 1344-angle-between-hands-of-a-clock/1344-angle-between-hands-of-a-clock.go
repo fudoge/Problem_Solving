@@ -1,5 +1,3 @@
-const MOD int = 360
-
 func angleClock(hour int, minutes int) float64 {
     hDeg := 30.0 * float64(hour) + 0.5 * float64(minutes)
     mDeg := 6.0 * float64(minutes)
