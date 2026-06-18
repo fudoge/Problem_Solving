@@ -863,6 +863,7 @@
 | [0870-magic-squares-in-grid](https://github.com/fudoge/Problem_Solving/tree/master/0870-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/fudoge/Problem_Solving/tree/master/1240-stone-game-ii) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/fudoge/Problem_Solving/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/fudoge/Problem_Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/fudoge/Problem_Solving/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/fudoge/Problem_Solving/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
