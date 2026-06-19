@@ -511,6 +511,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/fudoge/Problem_Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/fudoge/Problem_Solving/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/fudoge/Problem_Solving/tree/master/1720-crawler-log-folder) |
+| [1732-find-the-highest-altitude](https://github.com/fudoge/Problem_Solving/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1741-sort-array-by-increasing-frequency](https://github.com/fudoge/Problem_Solving/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/fudoge/Problem_Solving/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1803-average-waiting-time](https://github.com/fudoge/Problem_Solving/tree/master/1803-average-waiting-time) |
@@ -1192,6 +1193,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/fudoge/Problem_Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1590-make-sum-divisible-by-p](https://github.com/fudoge/Problem_Solving/tree/master/1590-make-sum-divisible-by-p) |
 | [1694-make-sum-divisible-by-p](https://github.com/fudoge/Problem_Solving/tree/master/1694-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/fudoge/Problem_Solving/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/fudoge/Problem_Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2249-count-the-hidden-sequences](https://github.com/fudoge/Problem_Solving/tree/master/2249-count-the-hidden-sequences) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fudoge/Problem_Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
