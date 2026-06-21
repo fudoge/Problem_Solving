@@ -515,6 +515,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/fudoge/Problem_Solving/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/fudoge/Problem_Solving/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1803-average-waiting-time](https://github.com/fudoge/Problem_Solving/tree/master/1803-average-waiting-time) |
+| [1833-maximum-ice-cream-bars](https://github.com/fudoge/Problem_Solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/fudoge/Problem_Solving/tree/main/1840-maximum-building-height/) | Hard |
 | [1923-sentence-similarity-iii](https://github.com/fudoge/Problem_Solving/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/fudoge/Problem_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -736,6 +737,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/fudoge/Problem_Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/fudoge/Problem_Solving/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/fudoge/Problem_Solving/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1833-maximum-ice-cream-bars](https://github.com/fudoge/Problem_Solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/fudoge/Problem_Solving/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/fudoge/Problem_Solving/tree/main/2126-destroying-asteroids/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/fudoge/Problem_Solving/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -779,6 +781,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/fudoge/Problem_Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/fudoge/Problem_Solving/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/fudoge/Problem_Solving/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/fudoge/Problem_Solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/fudoge/Problem_Solving/tree/main/2126-destroying-asteroids/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/fudoge/Problem_Solving/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/fudoge/Problem_Solving/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -1104,6 +1107,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/fudoge/Problem_Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/fudoge/Problem_Solving/tree/master/0948-sort-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1833-maximum-ice-cream-bars](https://github.com/fudoge/Problem_Solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2163-kth-distinct-string-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/fudoge/Problem_Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/fudoge/Problem_Solving/tree/master/2494-sum-of-prefix-scores-of-strings) |
