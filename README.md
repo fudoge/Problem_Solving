@@ -630,6 +630,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/fudoge/Problem_Solving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/fudoge/Problem_Solving/tree/master/0999-regions-cut-by-slashes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/fudoge/Problem_Solving/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-delete-nodes-and-return-forest](https://github.com/fudoge/Problem_Solving/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/fudoge/Problem_Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/fudoge/Problem_Solving/tree/master/1256-rank-transform-of-an-array) |
@@ -941,6 +942,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/fudoge/Problem_Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/fudoge/Problem_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/fudoge/Problem_Solving/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1189-maximum-number-of-balloons](https://github.com/fudoge/Problem_Solving/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1197-parsing-a-boolean-expression](https://github.com/fudoge/Problem_Solving/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/fudoge/Problem_Solving/tree/master/1304-longest-happy-string) |
@@ -1106,6 +1108,7 @@
 | ------- | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/fudoge/Problem_Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/fudoge/Problem_Solving/tree/master/0948-sort-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/fudoge/Problem_Solving/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1833-maximum-ice-cream-bars](https://github.com/fudoge/Problem_Solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2163-kth-distinct-string-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2163-kth-distinct-string-in-an-array) |
