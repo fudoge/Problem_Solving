@@ -1329,6 +1329,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/fudoge/Problem_Solving/tree/main/0175-combine-two-tables/) | Easy |
 | [1908-recyclable-and-low-fat-products](https://github.com/fudoge/Problem_Solving/tree/master/1908-recyclable-and-low-fat-products) |
 ## Combinatorics
 | Problem Name | Difficulty |
