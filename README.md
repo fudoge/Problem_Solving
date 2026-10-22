@@ -1346,4 +1346,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3625-count-number-of-trapezoids-ii](https://github.com/fudoge/Problem_Solving/tree/master/3625-count-number-of-trapezoids-ii) |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/fudoge/Problem_Solving/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
