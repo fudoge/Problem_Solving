@@ -613,6 +613,7 @@
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/fudoge/Problem_Solving/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3863-power-grid-maintenance](https://github.com/fudoge/Problem_Solving/tree/master/3863-power-grid-maintenance) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/fudoge/Problem_Solving/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
