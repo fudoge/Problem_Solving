@@ -604,6 +604,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fudoge/Problem_Solving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/fudoge/Problem_Solving/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/fudoge/Problem_Solving/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/fudoge/Problem_Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/fudoge/Problem_Solving/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/fudoge/Problem_Solving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -1237,6 +1238,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/fudoge/Problem_Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/fudoge/Problem_Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/fudoge/Problem_Solving/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/fudoge/Problem_Solving/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3676-smallest-number-with-all-set-bits](https://github.com/fudoge/Problem_Solving/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Number Theory
 | Problem Name | Difficulty |
