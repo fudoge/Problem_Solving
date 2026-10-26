@@ -1,3 +1,11 @@
+#pragma GCC optimize("O3")
+#pragma GCC optimize("unroll-loops")
+static const auto __init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    return 0;
+}();
+
 int dr[] = {-1, 1, 0, 0};
 int dc[] = {0, 0, -1, 1};
 class Solution {
