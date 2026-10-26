@@ -410,6 +410,7 @@
 | [2872-maximum-number-of-k-divisible-components](https://github.com/fudoge/Problem_Solving/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/fudoge/Problem_Solving/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/fudoge/Problem_Solving/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3863-power-grid-maintenance](https://github.com/fudoge/Problem_Solving/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -426,6 +427,7 @@
 | [2171-second-minimum-time-to-reach-destination](https://github.com/fudoge/Problem_Solving/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/fudoge/Problem_Solving/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3863-power-grid-maintenance](https://github.com/fudoge/Problem_Solving/tree/master/3863-power-grid-maintenance) |
 ## Graph
 | Problem Name | Difficulty |
@@ -595,6 +597,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/fudoge/Problem_Solving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/fudoge/Problem_Solving/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/fudoge/Problem_Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/fudoge/Problem_Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1063,6 +1066,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/fudoge/Problem_Solving/tree/master/2472-build-a-matrix-with-conditions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/fudoge/Problem_Solving/tree/master/2625-increment-submatrices-by-one) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/fudoge/Problem_Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/fudoge/Problem_Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Divide and Conquer
@@ -1352,4 +1356,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0195-tenth-line](https://github.com/fudoge/Problem_Solving/tree/main/0195-tenth-line/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
