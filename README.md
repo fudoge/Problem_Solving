@@ -617,6 +617,7 @@
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/fudoge/Problem_Solving/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3863-power-grid-maintenance](https://github.com/fudoge/Problem_Solving/tree/master/3863-power-grid-maintenance) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/fudoge/Problem_Solving/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/fudoge/Problem_Solving/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -1069,6 +1070,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/fudoge/Problem_Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/fudoge/Problem_Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/fudoge/Problem_Solving/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1155,6 +1157,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/fudoge/Problem_Solving/tree/master/3637-count-number-of-balanced-permutations) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/fudoge/Problem_Solving/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/fudoge/Problem_Solving/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/fudoge/Problem_Solving/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1244,6 +1247,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/fudoge/Problem_Solving/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/fudoge/Problem_Solving/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3676-smallest-number-with-all-set-bits](https://github.com/fudoge/Problem_Solving/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/fudoge/Problem_Solving/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
