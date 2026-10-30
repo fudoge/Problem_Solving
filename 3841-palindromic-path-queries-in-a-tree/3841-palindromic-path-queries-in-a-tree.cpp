@@ -175,11 +175,7 @@ public:
                 ss >> v;
 
                 int mask = query(u, v);
-                ans.push_back(
-                    __builtin_popcount(
-                        static_cast<unsigned>(mask)
-                    ) <= 1
-                );
+                ans.push_back((mask & (mask-1)) == 0);
             } else {
                 char ch;
                 ss >> ch;
