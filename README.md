@@ -994,6 +994,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/fudoge/Problem_Solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/fudoge/Problem_Solving/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/fudoge/Problem_Solving/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1098,6 +1099,7 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/fudoge/Problem_Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/fudoge/Problem_Solving/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3863-power-grid-maintenance](https://github.com/fudoge/Problem_Solving/tree/master/3863-power-grid-maintenance) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/fudoge/Problem_Solving/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1168,6 +1170,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/fudoge/Problem_Solving/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/fudoge/Problem_Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/fudoge/Problem_Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/fudoge/Problem_Solving/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1364,4 +1367,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/fudoge/Problem_Solving/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 <!---LeetCode Topics End-->
