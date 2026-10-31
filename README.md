@@ -610,6 +610,7 @@
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/fudoge/Problem_Solving/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/fudoge/Problem_Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3665-twisted-mirror-path-count](https://github.com/fudoge/Problem_Solving/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/fudoge/Problem_Solving/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/fudoge/Problem_Solving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/fudoge/Problem_Solving/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -1075,6 +1076,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/fudoge/Problem_Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/fudoge/Problem_Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/fudoge/Problem_Solving/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/fudoge/Problem_Solving/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -1162,6 +1164,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/fudoge/Problem_Solving/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fudoge/Problem_Solving/tree/master/3637-count-number-of-balanced-permutations) |
+| [3665-twisted-mirror-path-count](https://github.com/fudoge/Problem_Solving/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/fudoge/Problem_Solving/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/fudoge/Problem_Solving/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/fudoge/Problem_Solving/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
