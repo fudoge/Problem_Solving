@@ -470,6 +470,7 @@
 | [0179-largest-number](https://github.com/fudoge/Problem_Solving/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/fudoge/Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/fudoge/Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/fudoge/Problem_Solving/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0539-minimum-time-difference](https://github.com/fudoge/Problem_Solving/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fudoge/Problem_Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/fudoge/Problem_Solving/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -870,6 +871,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/fudoge/Problem_Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/fudoge/Problem_Solving/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/fudoge/Problem_Solving/tree/master/0273-integer-to-english-words) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/fudoge/Problem_Solving/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0539-minimum-time-difference](https://github.com/fudoge/Problem_Solving/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/fudoge/Problem_Solving/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/fudoge/Problem_Solving/tree/master/0592-fraction-addition-and-subtraction) |
