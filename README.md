@@ -616,6 +616,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/fudoge/Problem_Solving/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/fudoge/Problem_Solving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/fudoge/Problem_Solving/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/fudoge/Problem_Solving/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/fudoge/Problem_Solving/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fudoge/Problem_Solving/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -919,6 +920,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fudoge/Problem_Solving/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/fudoge/Problem_Solving/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/fudoge/Problem_Solving/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/fudoge/Problem_Solving/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
