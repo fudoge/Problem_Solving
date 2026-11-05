@@ -496,6 +496,7 @@
 | [1293-three-consecutive-odds](https://github.com/fudoge/Problem_Solving/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/fudoge/Problem_Solving/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/fudoge/Problem_Solving/tree/master/1333-sort-the-jumbled-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/fudoge/Problem_Solving/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/fudoge/Problem_Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/fudoge/Problem_Solving/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/fudoge/Problem_Solving/tree/master/1435-xor-queries-of-a-subarray) |
@@ -697,6 +698,7 @@
 | [0567-permutation-in-string](https://github.com/fudoge/Problem_Solving/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/fudoge/Problem_Solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0868-push-dominoes](https://github.com/fudoge/Problem_Solving/tree/master/0868-push-dominoes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/fudoge/Problem_Solving/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/fudoge/Problem_Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/fudoge/Problem_Solving/tree/master/1923-sentence-similarity-iii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/fudoge/Problem_Solving/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -717,6 +719,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/fudoge/Problem_Solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/fudoge/Problem_Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/fudoge/Problem_Solving/tree/master/0731-my-calendar-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/fudoge/Problem_Solving/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/fudoge/Problem_Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/fudoge/Problem_Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/fudoge/Problem_Solving/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -747,6 +750,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/fudoge/Problem_Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/fudoge/Problem_Solving/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/fudoge/Problem_Solving/tree/master/1333-sort-the-jumbled-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/fudoge/Problem_Solving/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/fudoge/Problem_Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/fudoge/Problem_Solving/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
