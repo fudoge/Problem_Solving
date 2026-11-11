@@ -833,6 +833,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/fudoge/Problem_Solving/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/fudoge/Problem_Solving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/fudoge/Problem_Solving/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/fudoge/Problem_Solving/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -937,6 +938,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/fudoge/Problem_Solving/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/fudoge/Problem_Solving/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/fudoge/Problem_Solving/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
