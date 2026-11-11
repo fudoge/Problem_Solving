@@ -2,9 +2,9 @@ func minimumCost(cost1 int, cost2 int, costBoth int, need1 int, need2 int) int64
     ans := int64(0)
     if costBoth <= cost1 + cost2 {
         le := min(need1, need2)
+        ans += int64(le) * int64(costBoth)
         need1 -= le
         need2 -= le
-        ans += int64(le) * int64(costBoth)
     }    
 
     if need1 > 0 {
