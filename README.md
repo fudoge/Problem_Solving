@@ -506,6 +506,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/fudoge/Problem_Solving/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/fudoge/Problem_Solving/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/fudoge/Problem_Solving/tree/master/1511-count-number-of-teams) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/fudoge/Problem_Solving/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/fudoge/Problem_Solving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/fudoge/Problem_Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/fudoge/Problem_Solving/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -905,6 +906,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/fudoge/Problem_Solving/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/fudoge/Problem_Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/fudoge/Problem_Solving/tree/master/1500-count-largest-group) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/fudoge/Problem_Solving/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/fudoge/Problem_Solving/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/fudoge/Problem_Solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/fudoge/Problem_Solving/tree/master/1642-water-bottles) |
@@ -1179,6 +1181,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/fudoge/Problem_Solving/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/fudoge/Problem_Solving/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/fudoge/Problem_Solving/tree/master/1511-count-number-of-teams) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/fudoge/Problem_Solving/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/fudoge/Problem_Solving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/fudoge/Problem_Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/fudoge/Problem_Solving/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1253,6 +1256,7 @@
 | [1240-stone-game-ii](https://github.com/fudoge/Problem_Solving/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/fudoge/Problem_Solving/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/fudoge/Problem_Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/fudoge/Problem_Solving/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/fudoge/Problem_Solving/tree/master/1590-make-sum-divisible-by-p) |
 | [1694-make-sum-divisible-by-p](https://github.com/fudoge/Problem_Solving/tree/master/1694-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/fudoge/Problem_Solving/tree/main/1732-find-the-highest-altitude/) | Easy |
