@@ -720,6 +720,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/fudoge/Problem_Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/fudoge/Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/fudoge/Problem_Solving/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3195-separate-black-and-white-balls](https://github.com/fudoge/Problem_Solving/tree/master/3195-separate-black-and-white-balls) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fudoge/Problem_Solving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/fudoge/Problem_Solving/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -1009,6 +1010,7 @@
 | [2727-number-of-senior-citizens](https://github.com/fudoge/Problem_Solving/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/fudoge/Problem_Solving/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/fudoge/Problem_Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/fudoge/Problem_Solving/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/fudoge/Problem_Solving/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/fudoge/Problem_Solving/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/fudoge/Problem_Solving/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -1193,6 +1195,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/fudoge/Problem_Solving/tree/master/2262-solving-questions-with-brainpower) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2755-extra-characters-in-a-string](https://github.com/fudoge/Problem_Solving/tree/master/2755-extra-characters-in-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/fudoge/Problem_Solving/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3243-count-the-number-of-powerful-integers](https://github.com/fudoge/Problem_Solving/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/fudoge/Problem_Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/fudoge/Problem_Solving/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
