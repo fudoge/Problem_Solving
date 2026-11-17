@@ -7,44 +7,32 @@ static const int __ = [](){
 
 class Solution {
 public:
-    int palin_cost(string &s) {
-        int l = 0, r = s.size()-1;
-        int res = 0;
-        while(l < r) {
-            if(s[l] != s[r]) res++;
-            l++;
-            r--;
-        }
-
-        return res;
-    }
-    int semi(string &s, int l, int r) {
-        int len = r - l + 1;
-        int res = INT_MAX;
-        for(int d = 1; d < len; d++) {
-            if(len % d == 0) {
-                vector<string> group(d);
-                for(int i = l; i <= r; i++) {
-                    group[(i-l)%d] += s[i];
-                }
-                int sum = 0;
-                for(int i = 0; i < d; i++) {
-                    sum += palin_cost(group[i]);
-                }
-                res = min(res, sum);
-            }
-        }
-
-        return res;
-    }
     int minimumChanges(string s, int k) {
         int n = s.size();
         const int INF = 1e9;
 
-        vector<vector<int>> cost(n, vector<int>(n, INF));
-        for(int l = 0; l < n; l++) {
-            for(int r = l+1; r < n; r++) {
-                cost[l][r] = semi(s, l, r);
+        vector<vector<int>> diag(n+1, vector<int>(n+1));
+        for(int i = n-1; i >= 0; i--) {
+            for(int j = n-1; j >= 0; j--) {
+                diag[i][j] = (s[i] != s[j]) + diag[i+1][j+1];
+            }
+        }
+
+        vector<vector<int>> cost(n, vector<int>(n, INF)), f(n, vector<int>(n, 0));
+        for(int d = 1; d * 2 <= n; d++) {
+            for(int len = 2*d; len <= n; len += d) {
+                for(int l = 0; l + len <= n; l++) {
+                    int r = l + len - 1;
+
+                    int val = diag[l][r-d+1] - diag[l+d][r+1];
+
+                    if(len >= 4 * d) {
+                        val += f[l+d][r-d];
+                    }
+
+                    f[l][r] = val;
+                    cost[l][r] = min(cost[l][r], val);
+                }
             }
         }
 
