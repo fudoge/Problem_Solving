@@ -5,18 +5,36 @@ static const int __ = [](){
     return 0;
 }();
 
-// started_at: 09:12
 class Solution {
 public:
     int minimizeSum(vector<int>& nums) {
         int n = nums.size();
-        sort(nums.begin(), nums.end());
 
-        vector<int> cands;
-        cands.push_back(nums[n-1] - nums[2]);
-        cands.push_back(nums[n-2] - nums[1]);
-        cands.push_back(nums[n-3] - nums[0]);
+        int h1 = INT_MIN, h2, h3, l1 = INT_MAX, l2, l3;
+        for(int i = 0; i < n; i++) {
+            if(nums[i] > h1) {
+                h3 = h2;
+                h2 = h1;
+                h1 = nums[i];
+            } else if(nums[i] > h2) {
+                h3 = h2;
+                h2 = nums[i];
+            } else if(nums[i] > h3) {
+                h3 = nums[i];
+            }  
+            
+            if(nums[i] < l1) {
+                l3 = l2;
+                l2 = l1;
+                l1 = nums[i];
+            } else if(nums[i] < l2) {
+                l3 = l2;
+                l2 = nums[i];
+            } else if(nums[i] < l3) {
+                l3 = nums[i];
+            }
+        }
 
-        return *min_element(cands.begin(), cands.end());
+        return min(h1-l3, min(h2-l2, h3-l1));
     }
 };
