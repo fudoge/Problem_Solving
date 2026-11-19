@@ -567,6 +567,7 @@
 | [2502-sort-the-people](https://github.com/fudoge/Problem_Solving/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/fudoge/Problem_Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/fudoge/Problem_Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/fudoge/Problem_Solving/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/fudoge/Problem_Solving/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/fudoge/Problem_Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -777,6 +778,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/fudoge/Problem_Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fudoge/Problem_Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/fudoge/Problem_Solving/tree/master/2502-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/fudoge/Problem_Solving/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/fudoge/Problem_Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fudoge/Problem_Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/fudoge/Problem_Solving/tree/master/2681-put-marbles-in-bags) |
@@ -817,6 +819,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/fudoge/Problem_Solving/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/fudoge/Problem_Solving/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fudoge/Problem_Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/fudoge/Problem_Solving/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/fudoge/Problem_Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/fudoge/Problem_Solving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/fudoge/Problem_Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
