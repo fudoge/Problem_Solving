@@ -29,7 +29,6 @@ public:
         }
         for(int i = 1; i < n; i++) {
             if(new_parent[i] != -1) parent[i] = new_parent[i];
-            cout << parent[i] << " ";
         }
 
         vector<int> ind(n);
