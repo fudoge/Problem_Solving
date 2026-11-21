@@ -1,3 +1,10 @@
+#pragma GCC optimize("O3", "unroll-loops");
+static const int __ = [](){
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    return 0;
+}();
+
 class Solution {
 public:
     int find_y(char ch, int y, vector<vector<int>>& dp, vector<int> &parent, string &s) {
