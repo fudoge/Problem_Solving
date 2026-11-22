@@ -1005,6 +1005,7 @@
 | [1923-sentence-similarity-iii](https://github.com/fudoge/Problem_Solving/tree/master/1923-sentence-similarity-iii) |
 | [1980-find-unique-binary-string](https://github.com/fudoge/Problem_Solving/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/fudoge/Problem_Solving/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/fudoge/Problem_Solving/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fudoge/Problem_Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/fudoge/Problem_Solving/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/fudoge/Problem_Solving/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
