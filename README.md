@@ -500,6 +500,7 @@
 | [1293-three-consecutive-odds](https://github.com/fudoge/Problem_Solving/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/fudoge/Problem_Solving/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/fudoge/Problem_Solving/tree/master/1333-sort-the-jumbled-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/fudoge/Problem_Solving/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/fudoge/Problem_Solving/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/fudoge/Problem_Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/fudoge/Problem_Solving/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -912,6 +913,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/fudoge/Problem_Solving/tree/master/1240-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/fudoge/Problem_Solving/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/fudoge/Problem_Solving/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/fudoge/Problem_Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/fudoge/Problem_Solving/tree/master/1500-count-largest-group) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/fudoge/Problem_Solving/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -1245,6 +1247,7 @@
 | [0731-my-calendar-ii](https://github.com/fudoge/Problem_Solving/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/fudoge/Problem_Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/fudoge/Problem_Solving/tree/master/0859-design-circular-deque) |
+| [1352-product-of-the-last-k-numbers](https://github.com/fudoge/Problem_Solving/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1497-design-a-stack-with-increment-operation](https://github.com/fudoge/Problem_Solving/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2169-simple-bank-system](https://github.com/fudoge/Problem_Solving/tree/master/2169-simple-bank-system) |
 ## Binary Search Tree
@@ -1255,6 +1258,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/fudoge/Problem_Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/fudoge/Problem_Solving/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1269,6 +1273,7 @@
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/fudoge/Problem_Solving/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/fudoge/Problem_Solving/tree/master/1240-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/fudoge/Problem_Solving/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1435-xor-queries-of-a-subarray](https://github.com/fudoge/Problem_Solving/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/fudoge/Problem_Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/fudoge/Problem_Solving/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
