@@ -606,6 +606,7 @@
 | [3331-find-subtree-sizes-after-changes](https://github.com/fudoge/Problem_Solving/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/fudoge/Problem_Solving/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/fudoge/Problem_Solving/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/fudoge/Problem_Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/fudoge/Problem_Solving/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -940,6 +941,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fudoge/Problem_Solving/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/fudoge/Problem_Solving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3321-type-of-triangle](https://github.com/fudoge/Problem_Solving/tree/master/3321-type-of-triangle) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/fudoge/Problem_Solving/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/fudoge/Problem_Solving/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/fudoge/Problem_Solving/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -1322,6 +1324,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/fudoge/Problem_Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/fudoge/Problem_Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/fudoge/Problem_Solving/tree/master/3001-apply-operations-to-maximize-score) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/fudoge/Problem_Solving/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -1386,6 +1389,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/fudoge/Problem_Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/fudoge/Problem_Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3364-minimum-positive-sum-subarray](https://github.com/fudoge/Problem_Solving/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/fudoge/Problem_Solving/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/fudoge/Problem_Solving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/fudoge/Problem_Solving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fudoge/Problem_Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1406,6 +1410,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/fudoge/Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/fudoge/Problem_Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/fudoge/Problem_Solving/tree/master/2215-finding-3-digit-even-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/fudoge/Problem_Solving/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3548-find-the-count-of-good-integers](https://github.com/fudoge/Problem_Solving/tree/master/3548-find-the-count-of-good-integers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/fudoge/Problem_Solving/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Database
