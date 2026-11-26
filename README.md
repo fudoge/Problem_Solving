@@ -890,6 +890,7 @@
 | [2645-pass-the-pillow](https://github.com/fudoge/Problem_Solving/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/fudoge/Problem_Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/fudoge/Problem_Solving/tree/master/2846-robot-collisions) |
+| [3360-stone-removal-game](https://github.com/fudoge/Problem_Solving/tree/main/3360-stone-removal-game/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/fudoge/Problem_Solving/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/fudoge/Problem_Solving/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3616-make-array-elements-equal-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -941,6 +942,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fudoge/Problem_Solving/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/fudoge/Problem_Solving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3321-type-of-triangle](https://github.com/fudoge/Problem_Solving/tree/master/3321-type-of-triangle) |
+| [3360-stone-removal-game](https://github.com/fudoge/Problem_Solving/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/fudoge/Problem_Solving/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/fudoge/Problem_Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/fudoge/Problem_Solving/tree/master/3548-find-the-count-of-good-integers) |
