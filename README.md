@@ -641,6 +641,7 @@
 | [3863-power-grid-maintenance](https://github.com/fudoge/Problem_Solving/tree/master/3863-power-grid-maintenance) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/fudoge/Problem_Solving/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/fudoge/Problem_Solving/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/fudoge/Problem_Solving/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -802,6 +803,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fudoge/Problem_Solving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/fudoge/Problem_Solving/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/fudoge/Problem_Solving/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/fudoge/Problem_Solving/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -847,6 +849,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/fudoge/Problem_Solving/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/fudoge/Problem_Solving/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fudoge/Problem_Solving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/fudoge/Problem_Solving/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1156,6 +1159,7 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/fudoge/Problem_Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/fudoge/Problem_Solving/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3863-power-grid-maintenance](https://github.com/fudoge/Problem_Solving/tree/master/3863-power-grid-maintenance) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/fudoge/Problem_Solving/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/fudoge/Problem_Solving/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
